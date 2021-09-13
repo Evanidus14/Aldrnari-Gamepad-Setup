@@ -2,16 +2,13 @@
 
 ![Logo](https://i.imgur.com/qOPBy7D.png)
 
-Setting up Aldrnari with a gamepad can be a daunting task with all of it's extra features and possible keybinds. In addition to that, the main combat mod, Engarde, works in such a way that dodges and power attacks won't respond to your analog stick movements - effectively locking you out of most of your defensive and offensive options right off the bat. There are some workarounds such as mapping your controller to keyboard keys for movement, but this is less than ideal. With this guide, you'll be able to play Aldrnari utilizing all of what it's systems have to offer with your gamepad (mostly comfortably) while still enjoying all of what a controller brings to the table. 
+Setting up Aldrnari with a gamepad can be a daunting task with all of it's extra features and possible keybinds. In addition to that, the main combat mod, Engarde, works in such a way that dodges and power attacks won't respond to your analog stick movements - effectively locking you out of most of your defensive and offensive options right off the bat. There are some workarounds such as mapping your controller to keyboard keys for movement, but this is less than ideal. With this guide, you'll be able to play Aldrnari utilizing all of what it's systems have to offer with your gamepad (mostly comfortably) while still enjoying all of what a controller brings to the table. Finally, you won't have to download any crazy software or tinker around with configurations - all of that has been done for you and is easily available within Steam's controller configuration tool. 
 
-## 
+## First Steps & Setup
 
-This is not a list for thieves, pickpockets, or assassins. Such archetypes and skill trees have been nerfed. Why? I simply don't enjoy such builds and it is to discourage you from playing these types of builds. [RAID](https://www.nexusmods.com/skyrimspecialedition/mods/2345) is set to high on both interiors and exteriors; furthermore, no additional tools for assassins are added, unlike QWEST! which has Sneak Tools.
-The combat, magic and gameplay overhauls are chosen for warriors, paladins, mages, and wizards.
+The first step is opening up MO2 and looking within the main pane (on the left) to ensure that the mod "Extended Hotkey System" is enabled under the "User Interface" seperator. This mod allows any key to be used as a hotkey within SKYUI's favorites menu and is integral for full utilization of your gamepad. Once you've checked the box next to the "Extended Hotkey System" mod, you can open Steam for the next step.
 
-This is not a list for Legacy of the Dragonborn (LotD) and item hoarders. LotD is not in simply because I do not like how it forces you to become an item hoarder. I made QWEST! for the ultimate LotD experience, and now I'm making the complete opposite. 
-LotD also displays the lowest quality armor and weapons mods in my opinion (Looking at you, Immersive Armors and Immersive Weapons). At the time you're reading this, Aldrnari may have way less unique items, but that is bound to change.
-You're free from hoarding random items, and you have cool player homes with room for displaying what you want, not what LotD deemed worthy. [This is the kind of behavior I hope to avoid](https://cdn.discordapp.com/attachments/747132474647248917/855547604561297428/unknown.png)
+Once you have Steam open, ensure that your controller is on and being read by Steam. From here, go over to Skyrim Special Edition in your library and click on "Controller Configuration" right underneath the logo on the right side. steam://controllerconfig/489830/2601140867 
 
 ## What the list is
 ### Beta Goals
