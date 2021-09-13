@@ -13,13 +13,23 @@ The first step is opening up MO2 and looking within the main pane (on the left) 
 
 Once you have Steam open, ensure that your controller is on and being read by Steam. From here, go over to Skyrim Special Edition in your library and click on "Controller Configuration" right underneath the logo on the right side. Now click on the "Browse Configs" button. This will bring up several options. We want to mouse over to "Community" bindings. Now, depending on the controller you're using, you may have to click the button at the bottom of the screen "Show Other Controller Types" in order to see the configurations. The configurations were made on a PS5 controller and an Xbox Elite controller but they will still work with earlier generation models. That is to say, the PS5 controller configuration works with a PS4 controller and the Xbox Elite configuration works with any Xbox controller. If you're using some sort of wonky 3rd party controller, it *should* work with the Xbox configuration. My configurations are most likely down at the bottom of the list and are titled "Aldrnari Controller Configuration." Apply the appropriate configuration and you can move on to the next steps.
 
+## Configuration Explanation
+
+These configurations were made possible by Steam's "shift modifier" and "action layer" options. What that means is this - While playing normally, you have the vanilla keybinds (for the most part). However, when you hold one or two of the modifiers, you get another set of new keybinds. I made both configurations virtually the same between PS4/5 and Xbox for ease of use. The two modifiers I make extensive use of are the L1/LB and R1/RB buttons on either the PS4/5 controller or Xbox controller. That means their vanilla functions have been remapped elswhere on the controller where it makes sense in order to free them up for modifier usage. These will be your main mode of switching your "focus".
+
+With how many keybinds are necessary to fully utilize ultra-modded Skyrim, any gamepad setup can get quite complicated. With that being said, I have attempted to make this less daunting by having each modifier have a specific "focus." Here are the areas of "focus" that I built into the configurations:
+
+- L1 (hold) + Directional Pad buttons: Holding this button will be your main way to access your groups from SkyUI (more on that later in the guide)
+
+
+
 ## Keybindings
 
 This section will list out the keybinding setup for both controller configurations. The way these configurations work is with modifier buttons which allow us all the extra buttons we need. I use the vanilla control scheme for both the keyboard (with one exception) and the controller so you don't need to adjust anything. You will, however, need to memorize these keybinds. My aim was to make them make sense and be user friendly, but that does not mean they can't be improved. For those of you that want to edit things - feel free to do so but know that you void any support in the Aldrnari support channel if you do. 
 
 ### PS4/PS5:
 
-I highly suggest you take a look at the configurations and familiarize yourself with the buttons. All have been labeled so ytou can easily see what button does what. They will also be listed for a comprehensive view of ever keybind, but they will make more sense if you visualize them in the configuration. Make sure to switch between all three layers (Default, L1 Hotkeys and Right Pad Hotkeys).
+I highly suggest you take a look at the configurations and familiarize yourself with the buttons. All have been labeled so you can easily see what button does what. They will also be listed for a comprehensive view of ever keybind, but they will make more sense if you visualize them in the configuration. Make sure to switch between all three layers (Default, L1 Hotkeys and Right Pad Hotkeys).
 
 ![image](https://user-images.githubusercontent.com/89932487/133136888-ee39bf3c-5fbf-42d4-87dd-b53b91d09375.png)
 
