@@ -45,13 +45,16 @@ Keybinds (No Modifiers)
 - Left Pad - Switch Shoulder Cam View
 - Right Pad - Modifier Button
 
-Keybinds (L1 Modifier - This button must be held down for the following keybinds to function)
-- L1 - Modifier Button (Must be held!)  
-- R2 - Standing Power Attack
-- Dpad Left - Group 1
-- Dpad Down - Group 2
-- Dpad Right - Group 3
-- Dpad Up - Group 4
+Keybinds (L1 Modifier - This button must be held down for the following keybinds to function) 
+- L1 + R2 - Standing Power Attack
+- L1 + Dpad Left - Group 1
+- L1 + Dpad Down - Group 2
+- L1 + Dpad Right - Group 3
+- L1 + Dpad Up - Group 4
+- L1 + R1+Dpad Left - Group 1
+- L1 + R1+Dpad Down - Group 2
+- L1 + R1+Dpad Right - Group 3
+- L1 + R1+Dpad Up - Group 4
 - Square - Dodge Left
 - X - Dodge Backwards
 - Circle - Dodge Right
@@ -62,9 +65,10 @@ Keybinds (L1 Modifier - This button must be held down for the following keybinds
 - Start (right side) - Quick Magicka Potion
 - Left Pad - Switch Shoulder Cam View
 - Right Pad - Modifier Button
-
-
-
+- L1+R1+Square - Left Power Attack
+- L1+R1+X - Backwards Power Attack
+- L1+R1+Circle - Right Power Attack
+- L1+R1+Triangle - Forward Power Attack
 
 
 
