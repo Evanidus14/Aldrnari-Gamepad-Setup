@@ -177,7 +177,21 @@ Keybinds (RB + LB Modifiers) - You must hold RB THEN LB for the following keybin
 
 ## MCM & Control Settings
 
+You're nearly there! We just need to change one vanilla keyboard control and setup the MCMs for our hotkeys to work correctly. 
 
+### Vanilla Control Changes
+
+You have but one key to change here, and that is to remap the command Run from "shift" to "Numpad."
+
+### MCM Settings
+
+#### Campfire
+- Gameplay
+  - Hotkeys
+    - Create Item - N
+    - Build Campfire - B
+    - Harvest Wood - H
+    - Instincts - G
 
 
 
