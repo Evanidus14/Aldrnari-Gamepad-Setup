@@ -110,5 +110,9 @@ Keybinds (RSP + R1 Modifiers) - You must hold RSP THEN R1 for the following keyb
 - RSP + R1 + Circle - Harvest Wood
 - RSP + R1 + Triangle - Build Campfire
 
+### Xbox:
 
+I highly suggest you take a look at the configurations and familiarize yourself with the buttons. All have been labeled so you can easily see what button does what. They will also be listed for a comprehensive view of every keybind, but they will make more sense if you visualize them in the configuration. Make sure to switch between all three layers (Default, LB Hotkeys and RB Hotkeys).
+
+![image](https://user-images.githubusercontent.com/89932487/133154424-9fea2031-ed45-40b1-84fc-fda1e096b1ab.png)
 
