@@ -19,11 +19,11 @@ This section will list out the keybinding setup for both controller configuratio
 
 ### PS4/PS5:
 
+I highly suggest you take a look at the configurations and familiarize yourself with the buttons. All have been labeled so ytou can easily see what button does what. They will also be listed for a comprehensive view of ever keybind, but they will make more sense if you visualize them in the configuration. Make sure to switch between all three layers (Default, L1 Hotkeys and Right Pad Hotkeys).
+
 ![image](https://user-images.githubusercontent.com/89932487/133136888-ee39bf3c-5fbf-42d4-87dd-b53b91d09375.png)
 
-![image](https://user-images.githubusercontent.com/89932487/133136948-6035699b-03e9-4d72-9a14-4454f360d4d0.png)
 
-![image](https://user-images.githubusercontent.com/89932487/133137041-c6fc797f-d4d4-41f2-a38f-6732b904b7b3.png)
 
 Keybinds (No Modifiers)                            
 - L1 - Modifier Button & Left Shift 
