@@ -258,7 +258,31 @@ It is imperative that you map all keys exactly as they are in this guide! The co
 
 There are still quite a few keys on your keyboard left for possible hotkey use. You have the entire numbers line (not the numpad, most of those are being used) as well as the following keys: O, U, Y, K, and L. That should be more than enough. Unfortunately, if you want to use any hotkeys beyond what I've built into the configurations, you'll have to add them in yourself. Support for this endeavor will not be provided. Fortunately, it isn't very hard to figure out with a little time and effort.
 
-#### Final Tips
+## Final Tips
+
+While this setup has worked well in my testing, there are a few quirks that can and will occur. During my testing they did not hamper or stop my gameplay. I will attempt to address them all as I have encountered them.
+
+#### Dodging Quirks
+
+If you never use lock on from True Directional Movement, you will never be able to use the directional dodging feature. When you press any of the dodge directions, you will simply dodge/slide/roll in the direction you are moving. This can be useful if you switch back and forth between locking on and not locking on. It is not a bug though, so don't ask in support as if it is. Also, I have found it unreliable to roll dodge by mashing the dodge key as you would in keyboard and mouse mode. As such, I do not rely on it. Feel free to explore it's usage more though. Perhaps you will have a different experience than me. 
+
+#### Power Attack Quirks 
+
+Power attacks work and function in much the same way as the dodge does - when not locked on, you will only ever get the forward power attack or the standing power attack depending on if you use the directional power attack hotkeys or the standing power attack hotkey (Duh). Also, I have found that, rarely, my character will get "stuck" doing the same power attack despite pressing different power attack hotkeys. This can be fixed by sprinting and/or using a standing power attack. It *seems* to me that this is a vanilla Skyrim foible, as such, please do not ask about it in support. 
+
+#### SkyUI Favorites & Groups
+
+If you're like me, you've never used the hotkeys provided by SkyUI. Well, if you want to really have fun, you need to change that up. I learned about them for the first time myself while I built these configurations. I have found them to be an amazing replacement for the somewhat script heavy Serio's Hotkeys that I use to use in every list. If you are unsure how the groups work, watch this [SkyUI Favorites & Groups Tutorial](https://youtu.be/FSrwmH4_dJM). Now that you understand how they work, you can fully utilize the 8 groups you have available from these configurations. You never have to pause during combat again, it really is amazing. 
+
+Some tips I have for utilizing those groups on your 8 directional pad hotkeys. I tend to keep a theme on specific directional pad buttons. For example, the down directional pad button is easy to get to when you're in combat, so I tend to map healing spells there on the first layer (thats group 2 while just holding L1/LB) and then I use the second layer as buffs which is group 6 (while holding L1/LB + R1/RB). Then I keep offensive magic on the two left directional pad hotkeys I have and utility spells for the up directional pad hotkeys. That leaves me with two slots on my right directional pad keys for two different groups of whatever I want (perhaps swords, bows etc...). Additionally, you have two quick access hotkeys when not holding down ANY modifiers (as in, just playing normally) - the left direction key and right direction key. I use these for two quick access shouts or powers so I can... well, switch between them quickly. 
+
+If you take the time to understand how these systems and features work, you will reap the benefit when you actually get around to playing the game.
+
+#### Extended Hotkey System
+
+While this mod provides a great amount of freedom, I am, in truth, not utilizing much of it in this guide. However, if you feel you need more hotkeys than I have provided, feel free to add as many as you want and add as many layers to your steam configuration as you would like. I feel 8 groups plus 2 quick access hotkeys is more than enough for most, including me. As I've stated before though, if you venture off beyond the scope of this guide, please do not ask for support in the support channel. Sovn has enough to manage as it is. 
+
+#### You're Done! Have Fun!
 
 
 
