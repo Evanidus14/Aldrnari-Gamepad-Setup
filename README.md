@@ -32,7 +32,7 @@ With how many keybinds are necessary to fully utilize ultra-modded Skyrim, any g
 
 
 - Face Buttons (Combat Actions Focus): Holding LB/L1 will give you access to all four directional dodges available from Engarde (Read the [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) for more information about it) which are located on the face buttons in the directions that make sense - the left button (Square for PS4/5 or X for Xbox) makes you dodge left, and the right button (Circle for PS4/5 or B for Xbox) makes you dodge right etc. Holding LB/L1 and then RB/R1 will give you access to your power attacks from Engarde. These were also implemented in the same way as the dodges - Square/X gives you the left power attack and Circle/B gives you the right power attack. The one exception to this is the standing power attack. This was mapped to holding L1 and then pressing the right trigger for PS4/5 and holding RB and pressing the right trigger for Xbox as there was no more room on the face button pad. 
-- Face Buttons (Campfire Actions): Holding RB/RSP will give you all four Campfire actions on your face buttons (Square/X = Create Item, Triangle/Y = Build Campfire, Circle/B = Harvest Wood, and X/A = Instincts.)
+- Face Buttons (Campfire Actions): Holding RB and LB on the Xbox controller and RSP and R1 on the PS4/5 controller will give you all four Campfire actions on your face buttons (Square/X = Create Item, Triangle/Y = Build Campfire, Circle/B = Harvest Wood, and X/A = Instincts.)
 
 
 
