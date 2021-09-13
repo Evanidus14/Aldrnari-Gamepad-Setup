@@ -38,7 +38,7 @@ With how many keybinds are necessary to fully utilize ultra-modded Skyrim, any g
 
 ## Keybindings
 
-This section will list out the keybinding setup for both controller configurations. The way these configurations work is with modifier buttons which allow us all the extra buttons we need. I use the vanilla control scheme for both the keyboard (with one exception) and the controller so you don't need to adjust anything. You will, however, need to memorize these keybinds. My aim was to make them make sense and be user friendly, but that does not mean they can't be improved. For those of you that want to edit things - feel free to do so but know that you void any support in the Aldrnari support channel if you do. 
+This section will list out the keybinding setup for both controller configurations. The way these configurations work is with modifier buttons which allow us all the extra buttons we need. I used the vanilla control scheme for both the keyboard (with one exception) and the controller so you don't need to adjust anything. You will, however, need to memorize these keybinds. My aim was to make them sensible and be user friendly, but that does not mean they can't be improved. For those of you that want to edit things - feel free to do so but know that you void any support in the Aldrnari support channel if you do. Honestly, this is probably all the official support you'll get for gamepads at all, so definitely pay attention.
 
 ### PS4/PS5:
 
