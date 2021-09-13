@@ -7,6 +7,10 @@ Setting up Aldrnari with a gamepad can be a daunting task with all of it's extra
 ... You *will* have to spend time and read this guide in its entirety though, otherwise you will be lost when trying to use your controller in game. You will also be told to RTFM if you ask any questions about controller support in the Aldrnari support channel that are answered within this guide. 
 
 ## First Steps & Setup
+
+### Important Considerations
+Make sure you follow this guide AFTER you finish the install guide and MCM settings in the main readme. If you do not, you will most likely run into keybinding issues as anything you set up in this guide could or will be overwritten.
+
 ### Additional Mod Activation
 
 The first step is opening up MO2 and looking within the main pane (on the left) to ensure that the mod "Extended Hotkey System" is enabled under the "User Interface" seperator. This mod allows any key to be used as a hotkey within SKYUI's favorites menu and is integral for full utilization of your gamepad. Once you've checked the box next to the "Extended Hotkey System" mod, you can open Steam for the next step.
