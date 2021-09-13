@@ -1,11 +1,10 @@
-# The video game has been modified
+# Aldrnari Gamepad Setup & Guide
 
 ![Logo](https://i.imgur.com/qOPBy7D.png)
 
-Yes, with 1500+ Mods, the game has changed quite a lot. I will try to describe, in the most comprehensive manner, what exactly the list is and what goal it's trying to achieve.
-I will start with what the list isn't.
+Setting up Aldrnari with a gamepad can be a daunting task with all of it's extra features and possible keybinds. In addition to that, the main combat mod, Engarde, works in such a way that dodges and power attacks won't respond to your analog stick movements - effectively locking you out of most of your defensive and offensive options right off the bat. There are some workarounds such as mapping your controller to keyboard keys for movement, but this is less than ideal. With this guide, you'll be able to play Aldrnari utilizing all of what it's systems have to offer with your gamepad (mostly comfortably) while still enjoying all of what a controller brings to the table. 
 
-## What the list isn't
+## 
 
 This is not a list for thieves, pickpockets, or assassins. Such archetypes and skill trees have been nerfed. Why? I simply don't enjoy such builds and it is to discourage you from playing these types of builds. [RAID](https://www.nexusmods.com/skyrimspecialedition/mods/2345) is set to high on both interiors and exteriors; furthermore, no additional tools for assassins are added, unlike QWEST! which has Sneak Tools.
 The combat, magic and gameplay overhauls are chosen for warriors, paladins, mages, and wizards.
