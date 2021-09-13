@@ -25,8 +25,8 @@ PS4/PS5:
 
 ![image](https://user-images.githubusercontent.com/89932487/133137041-c6fc797f-d4d4-41f2-a38f-6732b904b7b3.png)
 
-Keybinds (No Modifiers)                            Keybinds (L1 Modifier)
-- L1 - Modifier Button & Left Shift                - L1
+Keybinds (No Modifiers)                            
+- L1 - Modifier Button & Left Shift 
 - L2 - Left Hand
 - R1 - Power/Shout
 - R2 - Right Hand
@@ -40,10 +40,28 @@ Keybinds (No Modifiers)                            Keybinds (L1 Modifier)
 - Triangle - Jump
 - Left Stick Click - Sprint
 - Right Stick Click - Lock On
-- Share - Wait 
-- Start - System Menu
+- Share (left side) - Wait 
+- Start (right side) - System Menu
+- Left Pad - Switch Shoulder Cam View
+- Right Pad - Modifier Button
 
-Keybinds (L1 Modifier)
+Keybinds (L1 Modifier - This button must be held down for the following keybinds to function)
+- L1 - Modifier Button (Must be held!)  
+- R2 - Standing Power Attack
+- Dpad Left - Group 1
+- Dpad Down - Group 2
+- Dpad Right - Group 3
+- Dpad Up - Group 4
+- Square - Dodge Left
+- X - Dodge Backwards
+- Circle - Dodge Right
+- Triangle - Dodge Forward
+- Left Stick Click - Sneak
+- Right Stick Click - Toggle POV
+- Share (left side) - Quick Health Potion 
+- Start (right side) - Quick Magicka Potion
+- Left Pad - Switch Shoulder Cam View
+- Right Pad - Modifier Button
 
 
 
