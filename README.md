@@ -42,8 +42,6 @@ I highly suggest you take a look at the configurations and familiarize yourself 
 
 ![image](https://user-images.githubusercontent.com/89932487/133136888-ee39bf3c-5fbf-42d4-87dd-b53b91d09375.png)
 
-
-
 Keybinds (No Modifiers)                            
 - L1 - Modifier Button & Left Shift 
 - L2 - Left Hand
@@ -105,7 +103,7 @@ Keybinds (RSP + L1 Modifiers) - You must hold RSP THEN L1 for the following keyb
 - RSP + L1 + Dpad Up - Follower Teleport
 
 Keybinds (RSP + R1 Modifiers) - You must hold RSP THEN R1 for the following keybinds to work
-- RSP + R1 + Square - Creae Item
+- RSP + R1 + Square - Create Item
 - RSP + R1 + X - Instincts
 - RSP + R1 + Circle - Harvest Wood
 - RSP + R1 + Triangle - Build Campfire
@@ -115,4 +113,77 @@ Keybinds (RSP + R1 Modifiers) - You must hold RSP THEN R1 for the following keyb
 I highly suggest you take a look at the configurations and familiarize yourself with the buttons. All have been labeled so you can easily see what button does what. They will also be listed for a comprehensive view of every keybind, but they will make more sense if you visualize them in the configuration. Make sure to switch between all three layers (Default, LB Hotkeys and RB Hotkeys).
 
 ![image](https://user-images.githubusercontent.com/89932487/133154424-9fea2031-ed45-40b1-84fc-fda1e096b1ab.png)
+
+Keybinds (No Modifiers)                            
+- LB - Modifier Button & Left Shift 
+- LT - Left Hand
+- RB - Modifier Button
+- RT - Right Hand
+- Dpad Left - Hotkey
+- Dpad Down - Open Favorites
+- Dpad Right - Hotkey
+- Dpad Up - Open Favorites
+- X - Ready/Sheath
+- A - Activate
+- B - Tween Menu
+- Y - Jump
+- Left Stick Click - Sprint
+- Right Stick Click - Lock On
+- Select (left side) - Wait 
+- Start (right side) - System Menu
+
+Keybinds (LB Modifier) - This button must be held down for the following keybinds to work
+- LB + RT - Shout/Power
+- LB + Dpad Left - Group 1
+- LB + Dpad Down - Group 2
+- LB + Dpad Right - Group 3
+- LB + Dpad Up - Group 4
+- LB + X - Dodge Left
+- LB + A - Dodge Backwards
+- LB + B - Dodge Right
+- LB + Y - Dodge Forward
+- LB + Left Stick Click - Sneak
+- LB + Right Stick Click - Toggle POV
+- LB + Share (left side) - Quick Health Potion 
+- LB + Start (right side) - Quick Magicka Potion
+
+Keybinds (LB + RB Modifiers) - You must hold LB THEN hold RB for the following keybinds to work
+- LB + RB + Dpad Left - Group 5
+- LB + RB + Dpad Down - Group 6
+- LB + RB + Dpad Right - Group 7
+- LB + RB + Dpad Up - Group 8
+- LB + RB + X - Left Power Attack
+- LB + RB + A - Backwards Power Attack
+- LB + RB + B - Right Power Attack
+- LB + RB + Y - Forward Power Attack
+
+Keybinds (RB Modifier) - This button must be held down for the following keybinds to work
+- RB + Dpad Left - Follower Command
+- RB + Dpad Down - Follower Retreat
+- RB + Dpad Right - Follower Calm
+- RB + Dpad Up - Follower Attack
+- RB + Left Stick Click - Immersive HUD Toggle
+- RB + Right Stick Click - Forceful Tongue Shout Skill Tree
+
+Keybinds (RB + LB Modifiers) - You must hold RB THEN LB for the following keybinds to work
+- RB + LB + Dpad Left - Follower Trade
+- RB + LB + Dpad Down - Follower Get Behind Me
+- RB + LB + Dpad Right - Follower Wait
+- RB + LB + Dpad Up - Follower Teleport
+- RB + LB + X - Create Item
+- RB + LB + A - Instincts
+- RB + LB + B - Harvest Wood
+- RB + LB + Y - Build Campfire
+
+
+
+
+
+
+
+
+
+
+
+
 
