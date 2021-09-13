@@ -292,6 +292,9 @@ While this mod provides a great amount of freedom, I am, in truth, not utilizing
 
 #### You're Done! Have Fun!
 
+#### Special Thanks
+Thanks for making this awesome list Sovn!
+
 
 
 
