@@ -51,24 +51,24 @@ Keybinds (L1 Modifier - This button must be held down for the following keybinds
 - L1 + Dpad Down - Group 2
 - L1 + Dpad Right - Group 3
 - L1 + Dpad Up - Group 4
-- L1 + R1+Dpad Left - Group 1
-- L1 + R1+Dpad Down - Group 2
-- L1 + R1+Dpad Right - Group 3
-- L1 + R1+Dpad Up - Group 4
-- Square - Dodge Left
-- X - Dodge Backwards
-- Circle - Dodge Right
-- Triangle - Dodge Forward
-- Left Stick Click - Sneak
-- Right Stick Click - Toggle POV
-- Share (left side) - Quick Health Potion 
-- Start (right side) - Quick Magicka Potion
-- Left Pad - Switch Shoulder Cam View
-- Right Pad - Modifier Button
-- L1+R1+Square - Left Power Attack
-- L1+R1+X - Backwards Power Attack
-- L1+R1+Circle - Right Power Attack
-- L1+R1+Triangle - Forward Power Attack
+- L1 + R1 + Dpad Left - Group 5
+- L1 + R1 + Dpad Down - Group 6
+- L1 + R1 + Dpad Right - Group 7
+- L1 + R1 + Dpad Up - Group 8
+- L1 + Square - Dodge Left
+- L1 + X - Dodge Backwards
+- L1 + Circle - Dodge Right
+- L1 + Triangle - Dodge Forward
+- L1 + Left Stick Click - Sneak
+- L1 + Right Stick Click - Toggle POV
+- L1 + Share (left side) - Quick Health Potion 
+- L1 + Start (right side) - Quick Magicka Potion
+- L1 + Left Pad - Switch Shoulder Cam View
+- L1 + Right Pad - Modifier Button
+- L1 + R1 + Square - Left Power Attack
+- L1 + R1 + X - Backwards Power Attack
+- L1 + R1 + Circle - Right Power Attack
+- L1 + R1 + Triangle - Forward Power Attack
 
 
 
