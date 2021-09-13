@@ -175,6 +175,8 @@ Keybinds (RB + LB Modifiers) - You must hold RB THEN LB for the following keybin
 - RB + LB + B - Harvest Wood
 - RB + LB + Y - Build Campfire
 
+## MCM & Control Settings
+
 
 
 
