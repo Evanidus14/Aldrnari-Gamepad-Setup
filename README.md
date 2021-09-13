@@ -4,7 +4,7 @@
 
 Setting up Aldrnari with a gamepad can be a daunting task with all of it's extra features and possible keybinds. In addition to that, the main combat mod, Engarde, works in such a way that dodges and power attacks won't respond to your analog stick movements - effectively locking you out of most of your defensive and offensive options right off the bat. There are some workarounds such as mapping your controller to keyboard keys for movement, but this is less than ideal. With this guide, you'll be able to play Aldrnari utilizing all of what it's systems have to offer with your gamepad (mostly comfortably) while still enjoying all of what a controller brings to the table. Finally, you won't have to download any crazy software or tinker around with configurations - all of that has been done for you and is easily available within Steam's controller configuration tool.
 
-... You *will* have to spend time and read this guide in it's entirety though, otherwise you will be lost when trying to use your controller in game.
+... You *will* have to spend time and read this guide in its entirety though, otherwise you will be lost when trying to use your controller in game. You will also be told to RTFM if you ask any questions about controller support in the Aldrnari support channel that are answered within this guide. 
 
 ## First Steps & Setup
 ### Additional Mod Activation
