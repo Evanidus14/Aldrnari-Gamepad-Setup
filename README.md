@@ -25,6 +25,7 @@ PS4/PS5:
 
 ![image](https://user-images.githubusercontent.com/89932487/133137041-c6fc797f-d4d4-41f2-a38f-6732b904b7b3.png)
 
+Specific Keybinds
 -L1 > Modifier Button & Left Shift
 -L2 > Left Hand
 -R1 > Power/Shout
