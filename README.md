@@ -13,6 +13,23 @@ The first step is opening up MO2 and looking within the main pane (on the left) 
 
 Once you have Steam open, ensure that your controller is on and being read by Steam. From here, go over to Skyrim Special Edition in your library and click on "Controller Configuration" right underneath the logo on the right side. Now click on the "Browse Configs" button. This will bring up several options. We want to mouse over to "Community" bindings. Now, depending on the controller you're using, you may have to click the button at the bottom of the screen "Show Other Controller Types" in order to see the configurations. The configurations were made on a PS5 controller and an Xbox Elite controller but they will still work with earlier generation models. That is to say, the PS5 controller configuration works with a PS4 controller and the Xbox Elite configuration works with any Xbox controller. If you're using some sort of wonky 3rd party controller, it *should* work with the Xbox configuration. My configurations are most likely down at the bottom of the list and are titled "Aldrnari Controller Configuration." Apply the appropriate configuration and you can move on to the next steps.
 
+### Keybindings
+
+This section will list out the keybinding setup for both controller configurations. The way these configurations work is with modifier buttons which allow us all the extra buttons we need. I use the vanilla control scheme for both the keyboard (with one exception) and the controller so you don't need to adjust anything. You will, however, need to memorize these keybinds. My aim was to make them make sense and be user friendly, but that does not mean they can't be improved. For those of you that want to edit things - feel free to do so but know that you void any support in the Aldrnari support channel if you do. 
+
+PS4/PS5:
+
+![image](https://user-images.githubusercontent.com/89932487/133136600-f078258d-2085-4b6f-89e4-e39490d24227.png)
+
+
+
+
+
+
+
+
+
+
 ## What the list is
 ### Beta Goals
 
