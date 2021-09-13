@@ -200,8 +200,31 @@ It is imperative that you map all keys exactly as they are in this guide! The co
   - Power Attack Key - ]
   - Defensive Action Key - \
 
+#### Follower Framework
+- Activity
+  - Catch Up (Teleport) 
+    - Teleport Followers Hotkey - Numpad 7
+  - Waiting
+    - Followers Wait/Follow Key - Numpad 5
+- System
+  - Follower Action Keybinds
+    - Command Followers - Numpad 1
+    - Followers Attack - Numpad 4
+    - Followers Retreat - Numpad 2
+    - Calm Followers - Numpad 3
+    - Followers Behind You - Numpad 6
+    - Trade Items - Numpad 8
 
+#### Forceful Tongue
+  - Dragonborn Skill Menu Hotkey - ;
 
+#### Immersive Hud
+  - Activation
+    - Compass Activation
+      - iHUD Hotkey - x
+
+#### Optimal Potion Hotkey
+  - 
 
 
 
