@@ -8,7 +8,7 @@ Setting up Aldrnari with a gamepad can be a daunting task with all of it's extra
 
 The first step is opening up MO2 and looking within the main pane (on the left) to ensure that the mod "Extended Hotkey System" is enabled under the "User Interface" seperator. This mod allows any key to be used as a hotkey within SKYUI's favorites menu and is integral for full utilization of your gamepad. Once you've checked the box next to the "Extended Hotkey System" mod, you can open Steam for the next step.
 
-Once you have Steam open, ensure that your controller is on and being read by Steam. From here, go over to Skyrim Special Edition in your library and click on "Controller Configuration" right underneath the logo on the right side. steam://controllerconfig/489830/2601140867 
+Once you have Steam open, ensure that your controller is on and being read by Steam. From here, go over to Skyrim Special Edition in your library and click on "Controller Configuration" right underneath the logo on the right side. (steam://controllerconfig/489830/2601140867) 
 
 ## What the list is
 ### Beta Goals
