@@ -38,7 +38,7 @@ This section will list out the keybinding setup for both controller configuratio
 
 ### PS4/PS5:
 
-I highly suggest you take a look at the configurations and familiarize yourself with the buttons. All have been labeled so you can easily see what button does what. They will also be listed for a comprehensive view of ever keybind, but they will make more sense if you visualize them in the configuration. Make sure to switch between all three layers (Default, L1 Hotkeys and Right Pad Hotkeys).
+I highly suggest you take a look at the configurations and familiarize yourself with the buttons. All have been labeled so you can easily see what button does what. They will also be listed for a comprehensive view of every keybind, but they will make more sense if you visualize them in the configuration. Make sure to switch between all three layers (Default, L1 Hotkeys and Right Pad Hotkeys).
 
 ![image](https://user-images.githubusercontent.com/89932487/133136888-ee39bf3c-5fbf-42d4-87dd-b53b91d09375.png)
 
