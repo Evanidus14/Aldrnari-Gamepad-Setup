@@ -221,13 +221,46 @@ It is imperative that you map all keys exactly as they are in this guide! The co
 #### Immersive Hud
   - Activation
     - Compass Activation
-      - iHUD Hotkey - x
+      - iHUD Hotkey - X
 
 #### Optimal Potion Hotkey
   - Hotkeys
     - Health Potion Hotkey - , (That is this key (<) for those unsure)
     - Magicka Potion Hotkey - . (That is this key (>) for those unsure)
-    - I did not add in stamina potion hotkey because I never use it and there is limited real estate to work with as it is... If you want it you'll have to add it in yourself.
+    - I did not add in the stamina potion hotkey because I never use it and there is limited real-estate to work with as it is... If you want it you'll have to add it in yourself.
+
+#### SkyUI
+  - Controls
+    - Favorite Groups
+      - Group 1 - F1
+      - Group 2 - F2
+      - Group 3 - F3
+      - Group 4 - F4
+      - Group 5 - F6
+      - Group 6 - F7
+      - Group 7 - F8
+      - Group 8 - F10
+      - Be careful not to map F5 or F9 here, we want to keep those free as they are quick-save and quick-load. 
+
+#### SmoothCam
+  - Following
+    - Misc
+      - Shoulder Swap Key - V
+
+#### True Directional Movement
+  - Target Lock
+    - Controls
+      - Toggle Target Lock Key - Numpad /
+      - Ensure that you do NOT have "Toggle Target Lock with Toggle POV Button" selected. 
+      - I also personally go into the Target Lock Widget and make the lock on UI a simple dot and scale it down. That is, of course, up to you. 
+
+### Remaining Free Keybinds
+
+There are still quite a few keys on your keyboard left for possible hotkey use. You have the entire numbers line (not the numpad, most of those are being used) as well as the following keys: O, U, Y, K, and L. That should be more than enough. Unfortunately, if you want to use any hotkeys beyond what I've built into the configurations, you'll have to add them in yourself. Support for this endeavor will not be provided. Fortunately, it isn't very hard to figure out with a little time and effort.
+
+#### Final Tips
+
+
 
 
 
