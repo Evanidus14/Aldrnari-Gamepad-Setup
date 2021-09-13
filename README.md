@@ -185,6 +185,8 @@ You have but one key to change here, and that is to remap the command Run from "
 
 ### MCM Settings
 
+It is imperative that you map all keys exactly as they are in this guide! The configurations were built around these specific keybinds, so if you change any of them, you'll have to change the Steam Controller Configurations as well. 
+
 #### Campfire
 - Gameplay
   - Hotkeys
@@ -193,6 +195,10 @@ You have but one key to change here, and that is to remap the command Run from "
     - Harvest Wood - H
     - Instincts - G
 
+#### Engarde
+- KeyButton
+  - Power Attack Key - ]
+  - Defensive Action Key - \
 
 
 
