@@ -25,7 +25,7 @@ With how many keybinds are necessary to fully utilize ultra-modded Skyrim, any g
 
 - Directional Pad buttons: Holding L1 will give you access to your first 4 group hotkeys (from SkyUI, more on that later) and are located on the directional pad. Holding L1 and then R1 will give you access to the remaining 4 groups, also on your directional pad. 
 
-- Face Buttons: Holding L1 will give you access to all four directional dodges available from Engarde (Read the [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) for more info about it)
+- Face Buttons: Holding L1 will give you access to all four directional dodges available from Engarde (Read the [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) for more info about it) which are located on the face buttons in the directions that make sense - the left button makes you dodge left etc. 
 
 
 
