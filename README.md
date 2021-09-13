@@ -266,6 +266,10 @@ There are still quite a few keys on your keyboard left for possible hotkey use. 
 
 While this setup has worked well in my testing, there are a few quirks that can and will occur. During my testing they did not hamper or stop my gameplay. I will attempt to address them all as I have encountered them.
 
+#### Engarde Spellsword Tips
+
+If you love playing spellswords like I do, then this is vital for you to read through. I have mapped left shift to your L1/LB modifier button. That means it acts as both the modifier to change controls AND as your modifier in Engarde for using your left hand while wielding a sword in the right. All you have to do to cast your spells is hold L1/LB and start casting. You don't have to hold it, once you get the spell going, you can release L1/LB. If you want to free aim your spell, you'll need to let go of the L1/LB button after you get the spell going as for some reason, using the Engarde modifier stops you from being able to move your camera. However, if you want to rapid fire cast something (like Ice spike) it helps to lock on and then simply hold L1/LB and spam your left trigger to fire off spells until you need your right hand weapon. 
+
 #### Dodging Quirks
 
 If you never use lock on from True Directional Movement, you will never be able to use the directional dodging feature. When you press any of the dodge directions, you will simply dodge/slide/roll in the direction you are moving. This can be useful if you switch back and forth between locking on and not locking on. It is not a bug though, so don't ask in support as if it is. Also, I have found it unreliable to roll dodge by mashing the dodge key as you would in keyboard and mouse mode. As such, I do not rely on it. Feel free to explore it's usage more though. Perhaps you will have a different experience than me. 
