@@ -64,7 +64,7 @@ Keybinds (No Modifiers)
 - Left Pad - Switch Shoulder Cam View
 - Right Pad - Modifier Button
 
-Keybinds (L1 Modifier - This button must be held down for the following keybinds to function) 
+Keybinds (L1 Modifier) - This button must be held down for the following keybinds to work
 - L1 + R2 - Standing Power Attack
 - L1 + Dpad Left - Group 1
 - L1 + Dpad Down - Group 2
@@ -78,10 +78,9 @@ Keybinds (L1 Modifier - This button must be held down for the following keybinds
 - L1 + Right Stick Click - Toggle POV
 - L1 + Share (left side) - Quick Health Potion 
 - L1 + Start (right side) - Quick Magicka Potion
-- L1 + Left Pad - Switch Shoulder Cam View
 - L1 + Right Pad - Modifier Button
 
-Keybinds (L1 + R1 Modifiers - You must hold L1 THEN hold R1 for the following keybinds to work)
+Keybinds (L1 + R1 Modifiers) - You must hold L1 THEN hold R1 for the following keybinds to work
 - L1 + R1 + Dpad Left - Group 5
 - L1 + R1 + Dpad Down - Group 6
 - L1 + R1 + Dpad Right - Group 7
@@ -91,12 +90,25 @@ Keybinds (L1 + R1 Modifiers - You must hold L1 THEN hold R1 for the following ke
 - L1 + R1 + Circle - Right Power Attack
 - L1 + R1 + Triangle - Forward Power Attack
 
-Keybinds (Right Side Pad (RSP) Modifier - This button must be held down for the following keybinds to work)
-- L1 + R1 + Dpad Left - Group 5
-- L1 + R1 + Dpad Down - Group 6
-- L1 + R1 + Dpad Right - Group 7
-- L1 + R1 + Dpad Up - Group 8
-- L1 + R1 + Square - Left Power Attack
-- L1 + R1 + X - Backwards Power Attack
-- L1 + R1 + Circle - Right Power Attack
-- L1 + R1 + Triangle - Forward Power Attack
+Keybinds (Right Side Pad (RSP) Modifier) - This button must be held down for the following keybinds to work
+- RSP + Dpad Left - Follower Command
+- RSP + Dpad Down - Follower Retreat
+- RSP + Dpad Right - Follower Calm
+- RSP + Dpad Up - Follower Attack
+- RSP + Share - Immersive HUD Toggle
+- RSP + Start - Forceful Tongue Shout Skill Tree
+
+Keybinds (RSP + L1 Modifiers) - You must hold RSP THEN L1 for the following keybinds to work
+- RSP + L1 + Dpad Left - Follower Trade
+- RSP + L1 + Dpad Down - Follower Get Behind Me
+- RSP + L1 + Dpad Right - Follower Wait
+- RSP + L1 + Dpad Up - Follower Teleport
+
+Keybinds (RSP + R1 Modifiers) - You must hold RSP THEN R1 for the following keybinds to work
+- RSP + R1 + Square - Creae Item
+- RSP + R1 + X - Instincts
+- RSP + R1 + Circle - Harvest Wood
+- RSP + R1 + Triangle - Build Campfire
+
+
+
