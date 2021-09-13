@@ -19,8 +19,11 @@ This section will list out the keybinding setup for both controller configuratio
 
 PS4/PS5:
 
-![image](https://user-images.githubusercontent.com/89932487/133136600-f078258d-2085-4b6f-89e4-e39490d24227.png)
+![image](https://user-images.githubusercontent.com/89932487/133136888-ee39bf3c-5fbf-42d4-87dd-b53b91d09375.png)
 
+![image](https://user-images.githubusercontent.com/89932487/133136948-6035699b-03e9-4d72-9a14-4454f360d4d0.png)
+
+![image](https://user-images.githubusercontent.com/89932487/133137041-c6fc797f-d4d4-41f2-a38f-6732b904b7b3.png)
 
 
 
