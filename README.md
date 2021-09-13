@@ -17,7 +17,7 @@ Once you have Steam open, ensure that your controller is on and being read by St
 
 This section will list out the keybinding setup for both controller configurations. The way these configurations work is with modifier buttons which allow us all the extra buttons we need. I use the vanilla control scheme for both the keyboard (with one exception) and the controller so you don't need to adjust anything. You will, however, need to memorize these keybinds. My aim was to make them make sense and be user friendly, but that does not mean they can't be improved. For those of you that want to edit things - feel free to do so but know that you void any support in the Aldrnari support channel if you do. 
 
-###PS4/PS5:
+### PS4/PS5:
 
 ![image](https://user-images.githubusercontent.com/89932487/133136888-ee39bf3c-5fbf-42d4-87dd-b53b91d09375.png)
 
