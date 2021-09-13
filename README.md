@@ -13,7 +13,9 @@ The first step is opening up MO2 and looking within the main pane (on the left) 
 
 ### Steam Controller Configuration Setup
 
-Once you have Steam open, ensure that your controller is on and being read by Steam. From here, go over to Skyrim Special Edition in your library and click on "Controller Configuration" right underneath the logo on the right side. Now click on the "Browse Configs" button. This will bring up several options. We want to mouse over to "Community" bindings. Now, depending on the controller you're using, you may have to click the button at the bottom of the screen "Show Other Controller Types" in order to see the configurations. The configurations were made on a PS5 controller and an Xbox Elite controller but they will still work with earlier generation models. That is to say, the PS5 controller configuration works with a PS4 controller and the Xbox Elite configuration works with any Xbox controller. If you're using some sort of wonky 3rd party controller, it *should* work with the Xbox configuration. My configurations are most likely down at the bottom of the list and are titled "Aldrnari Controller Configuration." Apply the appropriate configuration and you can move on to the next steps.
+Once you have Steam open, ensure that your controller is on and being read by Steam. From here, go over to Skyrim Special Edition in your library and click on "Controller Configuration" right underneath the logo on the right side. Now click on the "Browse Configs" button. This will bring up several options. We want to mouse over to "Community" bindings. Now, depending on the controller you're using. You may have to click the button at the bottom of the screen "Show Other Controller Types" in order to see the configurations. 
+
+The configurations were made on a PS5 controller and an Xbox Elite controller but they will still work with earlier generation models. That is to say, the PS5 controller configuration works with a PS4 controller and the Xbox Elite configuration works with any Xbox controller. If you're using some sort of wonky 3rd party controller, it *should* work with the Xbox configuration. My configurations are most likely down at the bottom of the list and are titled "Aldrnari Controller Configuration." Apply the appropriate configuration and you can move on to the next steps.
 
 ## Configuration Explanation
 
@@ -21,7 +23,9 @@ These configurations were made possible by Steam's "shift modifier" and "action 
 
 With how many keybinds are necessary to fully utilize ultra-modded Skyrim, any gamepad setup can get quite complicated. With that being said, I have attempted to make this less daunting by having each modifier have a specific "focus." Here are the areas of "focus" that I built into the configurations:
 
-- L1 (hold) + Directional Pad buttons: Holding this button will be your main way to access your groups from SkyUI (more on that later in the guide)
+- Directional Pad buttons: Holding L1 will give you access to your first 4 group hotkeys (from SkyUI, more on that later) and are located on the directional pad. Holding L1 and then R1 will give you access to the remaining 4 groups, also on your directional pad. 
+
+- Face Buttons: Holding L1 will give you access to all four directional dodges available from Engarde (Read the [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) for more info about it)
 
 
 
