@@ -224,7 +224,10 @@ It is imperative that you map all keys exactly as they are in this guide! The co
       - iHUD Hotkey - x
 
 #### Optimal Potion Hotkey
-  - 
+  - Hotkeys
+    - Health Potion Hotkey - , (That is this key (<) for those unsure)
+    - Magicka Potion Hotkey - . (That is this key (>) for those unsure)
+    - I did not add in stamina potion hotkey because I never use it and there is limited real estate to work with as it is... If you want it you'll have to add it in yourself.
 
 
 
