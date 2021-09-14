@@ -17,7 +17,7 @@ The first step is opening up MO2 and looking within the main pane (on the left) 
 
 ### Steam Controller Configuration Setup
 
-Once you have Steam open, ensure that your controller is on and being read by Steam. From here, go over to Skyrim Special Edition in your library and click on "Controller Configuration" right underneath the logo on the right side. 
+Once you have Steam open, ensure that your controller is on and being read by Steam. Some of you may experience trouble during this stage,  From here, go over to Skyrim Special Edition in your library and click on "Controller Configuration" right underneath the logo on the right side. 
 
 ![image](https://user-images.githubusercontent.com/89932487/133179566-62263d0b-9c65-42e3-b56b-30554f4423c0.png)
 
