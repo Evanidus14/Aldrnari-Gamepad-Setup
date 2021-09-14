@@ -32,7 +32,7 @@ This will bring up several options. We want to mouse over to "Community" binding
 ![image](https://user-images.githubusercontent.com/89932487/133179781-0e103c21-2c3d-49d3-91be-0c991b766bfe.png)
 
 
-Now, depending on the controller you're using, you may have to click the button at the bottom of the screen "Show Other Controller Types" in order to see the configurations.
+Now, depending on the controller you're using, you may have to click the button at the bottom of the screen "Show Other Controller Types" in order to see the configurations. The best part about these configurations is that you don't have to do anything to get them up and running - just apply them through steam and you're ready to move on!
 
 ![image](https://user-images.githubusercontent.com/89932487/133180556-7a334519-bc09-4cd5-b87d-45a726a2d755.png)
 
