@@ -17,11 +17,36 @@ The first step is opening up MO2 and looking within the main pane (on the left) 
 
 ### Steam Controller Configuration Setup
 
-Once you have Steam open, ensure that your controller is on and being read by Steam. From here, go over to Skyrim Special Edition in your library and click on "Controller Configuration" right underneath the logo on the right side. Now click on the "Browse Configs" button. This will bring up several options. We want to mouse over to "Community" bindings. Now, depending on the controller you're using, you may have to click the button at the bottom of the screen "Show Other Controller Types" in order to see the configurations. 
+Once you have Steam open, ensure that your controller is on and being read by Steam. From here, go over to Skyrim Special Edition in your library and click on "Controller Configuration" right underneath the logo on the right side. 
+
+![image](https://user-images.githubusercontent.com/89932487/133179566-62263d0b-9c65-42e3-b56b-30554f4423c0.png)
+
+
+Now click on the "Browse Configs" button. 
+
+![image](https://user-images.githubusercontent.com/89932487/133179662-384ceecd-b747-436a-affc-c73efd7acebb.png)
+
+
+This will bring up several options. We want to mouse over to "Community" bindings. 
+
+![image](https://user-images.githubusercontent.com/89932487/133179781-0e103c21-2c3d-49d3-91be-0c991b766bfe.png)
+
+
+Now, depending on the controller you're using, you may have to click the button at the bottom of the screen "Show Other Controller Types" in order to see the configurations.
+
+![image](https://user-images.githubusercontent.com/89932487/133180556-7a334519-bc09-4cd5-b87d-45a726a2d755.png)
+
 
 The configurations were made on a PS5 controller and an Xbox Elite controller but they will still work with earlier generation models. That is to say, the PS5 controller configuration works with a PS4 controller and the Xbox Elite configuration works with any Xbox controller. If you're using some sort of wonky 3rd party controller, it *should* work with the Xbox configuration. My configurations are most likely down at the bottom of the list and are titled "Aldrnari Controller Configuration (Controller Type) V1.1." You should use the newest configuration available. The version number may be different if I update the configurations after this guide has been written.
 
-## Configuration Explanation
+![image](https://user-images.githubusercontent.com/89932487/133180694-23e768fd-5b9b-4429-8dfe-cb90ef4326d9.png)
+
+Or...
+
+![image](https://user-images.githubusercontent.com/89932487/133180761-151fa515-1908-475b-b903-2c28dcd41a01.png)
+
+
+## Configurations Explanation
 
 These configurations were made possible by Steam's "shift modifier" and "action layer" options. What that means is this - While playing normally, you have the vanilla keybinds (for the most part). However, when you hold one or two of the modifiers, you get another set of new keybinds. I made both configurations virtually the same between PS4/5 and Xbox for ease of use. The two modifiers I make extensive use of are the LB and RB buttons on the Xbox controller and L1, R1 & Right Side Pad (RSP) on the PS4/5 controller. That means their vanilla functions have been remapped elswhere on the controller where it makes sense in order to free them up for modifier usage. These will be your main mode of switching your "focus".
 
