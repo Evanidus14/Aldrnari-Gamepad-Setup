@@ -72,7 +72,7 @@ Holding R1/RB will bring up your directional power attacks from engarde and your
 
 #### Gameplay & Controller Configuration Tutorial/Demo
 
-I've created a video that may make it easier for you to understand how the controls work as you'll be able to see them in action. It is HIGHLY SUGGESTED you sit through the video to properly understand this control scheme. I know it's long, but it will help. (This video will be updated, for now consider it a work-in-progress.)
+I've created a video that may make it easier for you to understand how the controls work as you'll be able to see them in action. It is HIGHLY SUGGESTED you sit through the entire video to properly understand this control scheme. I know it's long, but it will help. Also, I added on a little clip at the end explaining an important feature for Spellswords that I forgot to add in, so be sure to watch that bit too (This video will be updated, for now consider it a work-in-progress).
 
 https://youtu.be/GMPVL1EfFv8
 
