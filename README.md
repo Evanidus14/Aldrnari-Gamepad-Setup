@@ -36,7 +36,7 @@ As was stated earlier, you don't need to mess around with any custom controls, s
 Simply copy and paste the appropriate controller configuration from below into your browser and it will attempt to open Steam. Allow it to do so and then accept the configuration as was just mentioned.
 
 The Steam controller configurations are here: 
-  - [PS4/5 controller] (steam://controllerconfig/489830/2604084518)
+  - [PS4/5 controller] (steam://controllerconfig/489830/2604249360)
   ![image](https://user-images.githubusercontent.com/89932487/133794142-8eb67c39-2dc2-4a31-9228-faeb6f06555f.png)
 
   - [Xbox and all 3rd party controllers] (steam://controllerconfig/489830/2604230895)
@@ -88,7 +88,7 @@ I highly suggest you take a look at the configurations and familiarize yourself 
 ![image](https://user-images.githubusercontent.com/89932487/133794142-8eb67c39-2dc2-4a31-9228-faeb6f06555f.png)
 
 Default Keybinds (No Modifiers)                            
-- L1 - Modifier Button & Left Shift 
+- L1 - Modifier Button & Left Shift
 - L2 - Left Hand
 - R1 - Modifier Button
 - R2 - Right Hand
@@ -99,7 +99,7 @@ Default Keybinds (No Modifiers)
 - Square - Quick Heal
 - Square (Long Hold) - Quick Magicka Potion
 - Cross - Activate
-- Circle - Sprint
+- Circle - Hold to Sprint
 - Triangle - Jump
 - Left Stick Click - Ready/Sheath
 - Right Stick Click - Lock On
@@ -108,6 +108,9 @@ Default Keybinds (No Modifiers)
 - Start (right side) - System Menu
 - Left Pad Click - Menu Sort Left
 - Right Pad Click - Menu Sort Right
+- Circle + Triangle - Tween Menu
+- Circle + Dpad Up - Favorites Menu
+- Circle + Left Stick Click - Sneak
 
 L1 Modifier Keybinds - This button must be held down for the following keybinds to work
 - L1 + R1 - Shout/Power
@@ -162,13 +165,16 @@ Default Keybinds (No Modifiers)
 - X - Quick Heal
 - X (Long Hold) - Quick Magicka Potion
 - A - Activate
-- B - Sprint
+- B - Hold to Sprint
 - Y - Jump
 - Left Stick Click - Ready/Sheath
 - Right Stick Click - Lock On
 - Right Stick Click (Hold for 0.25 seconds and then release) - Change POV
 - Select (left side) - Wait 
 - Start (right side) - System Menu
+- B + Y - Tween Menu
+- B + Dpad Up - Favorites Menu
+- B + Left Stick Click - Sneak
 
 LB Modifier Keybinds - This button must be held down for the following keybinds to work
 - LB + RB - Shout/Power
@@ -186,36 +192,39 @@ LB Modifier Keybinds - This button must be held down for the following keybinds 
 - LB + Start (Long Hold) - Shoulder Cam Switch
 
 RB Modifier Keybinds - This button must be held down for the following keybinds to work
-- R1 + R2 - Standing Power Attack
-- R1 + Dpad Left - Group 5
-- R1 + Dpad Down - Group 6
-- R1 + Dpad Right - Group 7
-- R1 + Dpad Up - Group 8
-- R1 + Square - Left Power Attack
-- R1 + Cross - Backwards Power Attack
-- R1 + Circle - Right Power Attack
-- R1 + Triangle - Forward Power Attack
-- R1 + Select (left side) - ENB Lens Toggle
-- R1 + Start (right Side) - ENB Screenshot
-- R1 + Left Stick Click - Lichdom Mode Change
+- RB + Right Trigger - Standing Power Attack
+- RB + Dpad Left - Group 5
+- RB + Dpad Down - Group 6
+- RB + Dpad Right - Group 7
+- RB + Dpad Up - Group 8
+- RB + X - Left Power Attack
+- RB + A - Backwards Power Attack
+- RB + B - Right Power Attack
+- RB + Y - Forward Power Attack
+- RB + Select - ENB Lens Toggle
+- RB + Start - ENB Screenshot
+- RB + Left Stick Click - Lichdom Mode Change
 
-Campfire Actions (Hold Left Side Pad Button) - You must hold the Left Side Pad (LSP) Button for the following keybinds to work
-- LSP + Square - Create Item
-- LSP + Cross - Instincts
-- LSP + Circle - Harvest Wood
-- LSP + Triangle - Build Campfire
+Campfire Actions (Hold Select Button) - You must hold the Select Button for the following keybinds to work
+- Select + X - Create Item
+- Select + A - Instincts
+- Select + B - Harvest Wood
+- Select + Y - Build Campfire
 
 ## MCM & Control Settings
 
-You're nearly there! We just need to change one vanilla keyboard control and setup the MCMs for our hotkeys to work correctly. 
+You're nearly there! Now we can go in-game and do the final steps.
+
+NOTE: Like was mentioned in the beginning of the readme, you need to follow this guide AFTER you've already done the initial Aldrnari MCM setup. What I like to do is start a fresh new game, get ALL the MCM settings from the main guide taken care of, then I make a save. THEN, once you've gotten this far in the controller guide, load up that save with the MCM steps for the main guide complete already and add these final steps on top of it. When you finish, save again. Now you will have a base save that you can start new games from that is already all set up with all the MCM options from both the main guide and this controller guide without having to do them every time you start a new game.
 
 ### Vanilla Control Changes
 
-You have but one key to change here, and that is to remap the command Run from "shift" to "Numpad."
+#### Use Your Keyboard For This Step!
+You need to load the custom control map we created for our configurations to work. To do that, simply open the controls option in the main menu while in your base save and hit the "Restore Defaults" option. This will load all of our custom bindings. If you miss this step, you will have messed up controls and navigating menus will be hell. 
 
 ### MCM Settings
 
-It is imperative that you map all keys exactly as they are in this guide! The configurations were built around these specific keybinds, so if you change any of them, you'll have to change the Steam Controller Configurations as well. 
+It is imperative that you map all keys exactly as they are in this guide! The configurations were built around these specific keybinds, so if you change any of them, you'll have to change the Steam Controller Configurations and custom control map as well. 
 
 #### Campfire
 - Gameplay
@@ -225,25 +234,14 @@ It is imperative that you map all keys exactly as they are in this guide! The co
     - Harvest Wood - H
     - Instincts - G
 
+#### Classical Lichdom
+  - Change Grip - K
+
 #### Engarde
 - KeyButton
+  - Modifier - Left Shift (It should default to this)
   - Power Attack Key - ]
   - Defensive Action Key - \
-
-#### Follower Framework
-- Activity
-  - Catch Up (Teleport) 
-    - Teleport Followers Hotkey - Numpad 7
-  - Waiting
-    - Followers Wait/Follow Key - Numpad 5
-- System
-  - Follower Action Keybinds
-    - Command Followers - Numpad 1
-    - Followers Attack - Numpad 4
-    - Followers Retreat - Numpad 2
-    - Calm Followers - Numpad 3
-    - Followers Behind You - Numpad 6
-    - Trade Items - Numpad 8
 
 #### Forceful Tongue
   - Dragonborn Skill Menu Hotkey - ;
@@ -253,11 +251,11 @@ It is imperative that you map all keys exactly as they are in this guide! The co
     - Compass Activation
       - iHUD Hotkey - X
 
-#### Optimal Potion Hotkey
+#### Optimal Potion Hotkey (USE YOUR CONTROLLER FOR THIS SPECIFIC MCM)
   - Hotkeys
-    - Health Potion Hotkey - , (That is this key (<) for those unsure)
+    - Health Potion Hotkey - Square on the PS4/5 controller or X on the Xbox Controller.
     - Magicka Potion Hotkey - . (That is this key (>) for those unsure)
-    - I did not add in the stamina potion hotkey because I never use it and there is limited real-estate to work with as it is... If you want it you'll have to add it in yourself.
+    - I did not add in the stamina potion hotkey because I never use it and there is limited real-estate to work with as it is... If you want it you'll have to add it in yourself with everything that would entail.
 
 #### SkyUI
   - Controls
@@ -286,11 +284,11 @@ It is imperative that you map all keys exactly as they are in this guide! The co
 
 ### Remaining Free Keybinds
 
-There are still quite a few keys on your keyboard left for possible hotkey use. You have the entire numbers line (not the numpad, most of those are being used) as well as the following keys: O, U, Y, K, and L. That should be more than enough. Unfortunately, if you want to use any hotkeys beyond what I've built into the configurations, you'll have to add them in yourself. Support for this endeavor will not be provided. Fortunately, it isn't very hard to figure out with a little time and effort.
+There are still quite a few keys on your keyboard left for possible hotkey use. You have the entire numbers line (not the numpad, most of those are being used) as well as the following keys: O, U, Y, and L. That should be more than enough. Unfortunately, if you want to use any hotkeys beyond what I've built into the configurations, you'll have to add them in yourself. Support for this endeavor will not be provided. Fortunately, it isn't very hard to figure out with a little time and effort.
 
-## Final Tips
+## Final Tips & Troubleshooting
 
-While this setup has worked well in my testing, there are a few quirks that can and will occur. During my testing they did not hamper or stop my gameplay. I will attempt to address them all as I have encountered them.
+While this setup has worked well in my testing, there are a few quirks that can and will occur. During my testing they did not hamper or stop my gameplay. I will attempt to address them all as I have encountered them. You will be directed back to the readme if you ask questions about these "quirks" in the support channel.
 
 #### Engarde Spellsword Tips
 
