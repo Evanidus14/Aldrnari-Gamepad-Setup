@@ -54,7 +54,8 @@ Engarde is the combat mod being used by Alrnari. Go to the [Modified Gameplay.md
 
 True Directional Movement (TDM) is the movement overhaul everyone wants to be using - and for good reason: it allows you to play Skyrim with a truly modern movement style. It also features a lock on feature (much like Dark Souls) that you will need to make extensive use of for this entire setup to really shine. 
 
-#### Engarde+True Directional Movement Together
+### Engarde+True Directional Movement Together
+
 So, with both mods put together, we have some issues. Firstly, because TDM changes how movement occurs, it messes with our Engarde setup. Since Engarde relies on strafing type movement to determine dodge and power attack direction and since TDM essentially puts your character into an "always moving forward" state, we won't be able to use our directional features from Engarde... UNLESS you are locked on! Once you lock on to enemies, all of the features of both mods come together and you can experience the full effect of both mods. So, when not locked on, it won't matter which directional dodge or power attack you try to use, you'll simply do the forward dodge or power attack. But that all changes when you lock on to your enemies. 
 
 ## Configuration In-Depth Explanation
@@ -68,6 +69,12 @@ With how many keybinds are necessary to fully utilize ultra-modded Skyrim, any g
 
 #### Power Attack Focus
 Holding R1/RB will bring up your directional power attacks from engarde and your last set of 4 groups from SKYUI. The groups are located on the directional buttons like before (left, right, down, and up) and the power attacks are located on the face buttons (PS4/5: Square, Circle, Triangle, and Cross) (Xbox: X, Y, B, and A). They were added to the controller in a way that maked sense to me - holding R1/RB and hitting Triangle/Y will give you a forward power attack. Holding R1/RB and hitting Square/X will give you your left power attack etc.
+
+#### Gameplay & Controller Configuration Tutorial/Demo
+
+I've created a video that may make it easier for you to understand how the controls work as you'll be able to see them in action. This video will be updated, for now consider it a work-in-progress.
+
+https://youtu.be/GMPVL1EfFv8
 
 
 ## Keybindings
