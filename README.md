@@ -72,92 +72,84 @@ Holding R1/RB will bring up your directional power attacks from engarde and your
 
 #### Gameplay & Controller Configuration Tutorial/Demo
 
-I've created a video that may make it easier for you to understand how the controls work as you'll be able to see them in action. This video will be updated, for now consider it a work-in-progress.
+I've created a video that may make it easier for you to understand how the controls work as you'll be able to see them in action. It is HIGHLY SUGGESTED you sit through the video to properly understand this control scheme. I know it's long, but it will help. (This video will be updated, for now consider it a work-in-progress.)
 
 https://youtu.be/GMPVL1EfFv8
 
 
 ## Keybindings
 
-This section will list out the keybinding setup for both controller configurations. The way these configurations work is with modifier buttons which allow us all the extra buttons we need. I used the vanilla control scheme for both the keyboard (with one exception) and the controller so you don't need to adjust anything. You will, however, need to memorize these keybinds. My aim was to make them sensible and be user friendly, but that does not mean they can't be improved. For those of you that want to edit things - feel free to do so but know that you void any support in the Aldrnari support channel if you do. Honestly, this is probably all the official support you'll get for gamepads at all, so definitely pay attention.
+This section will list out the keybinding setup for both controller configurations as a reference. For those of you that want to edit things - feel free to do so but know that you void any support in the Aldrnari support channel if you do. Also, keep in mind this setup was achieved with a combination of a custom controlmap.txt AND the steam configuration - that means you need to know how to edit both before you try and change things with any chance of success. Otherwise, this is probably all the official support you'll get for gamepads at all, so definitely pay attention.
 
 ### PS4/PS5:
 
-I highly suggest you take a look at the configurations and familiarize yourself with the buttons. All have been labeled so you can easily see what button does what. They will also be listed for a comprehensive view of every keybind, but they will make more sense if you visualize them in the configuration. Make sure to switch between all three layers (Default, L1 Hotkeys and Right Pad Hotkeys).
+I highly suggest you take a look at the configurations and familiarize yourself with the buttons. All have been labeled so you can easily see what button does what. They will also be listed for a comprehensive view of every keybind, but they will make more sense if you visualize them in the configuration. Make sure to switch between all three layers (Default, L1 Hotkeys and R1 Hotkeys). Keep in mind that while holding L1 or R1, any buttons that do not have a mapping listed here will perform the mapping from the default "layer" of the configuration.
 
-![image](https://user-images.githubusercontent.com/89932487/133136888-ee39bf3c-5fbf-42d4-87dd-b53b91d09375.png)
+![image](https://user-images.githubusercontent.com/89932487/133794142-8eb67c39-2dc2-4a31-9228-faeb6f06555f.png)
 
-Keybinds (No Modifiers)                            
+Default Keybinds (No Modifiers)                            
 - L1 - Modifier Button & Left Shift 
 - L2 - Left Hand
-- R1 - Power/Shout
+- R1 - Modifier Button
 - R2 - Right Hand
 - Dpad Left - Hotkey
-- Dpad Down - Open Favorites
+- Dpad Down - Hotkey
 - Dpad Right - Hotkey
-- Dpad Up - Open Favorites
-- Square - Ready/Sheath
-- X - Activate
-- Circle - Tween Menu
+- Dpad Up - Hotkey
+- Square - Quick Heal
+- Square (Long Hold) - Quick Magicka Potion
+- Cross - Activate
+- Circle - Sprint
 - Triangle - Jump
-- Left Stick Click - Sprint
+- Left Stick Click - Ready/Sheath
 - Right Stick Click - Lock On
+- Right Stick Click (Hold for 0.25 seconds and then release) - Change POV
 - Share (left side) - Wait 
 - Start (right side) - System Menu
-- Left Pad - Switch Shoulder Cam View
-- Right Pad - Modifier Button
+- Left Pad Click - Menu Sort Left
+- Right Pad Click - Menu Sort Right
 
-Keybinds (L1 Modifier) - This button must be held down for the following keybinds to work
-- L1 + R2 - Standing Power Attack
+L1 Modifier Keybinds - This button must be held down for the following keybinds to work
+- L1 + R1 - Shout/Power
 - L1 + Dpad Left - Group 1
 - L1 + Dpad Down - Group 2
 - L1 + Dpad Right - Group 3
 - L1 + Dpad Up - Group 4
 - L1 + Square - Dodge Left
-- L1 + X - Dodge Backwards
+- L1 + Cross - Dodge Backwards
 - L1 + Circle - Dodge Right
 - L1 + Triangle - Dodge Forward
 - L1 + Left Stick Click - Sneak
 - L1 + Right Stick Click - Toggle POV
-- L1 + Share (left side) - Quick Health Potion 
-- L1 + Start (right side) - Quick Magicka Potion
-- L1 + Right Pad - Modifier Button
+- L1 + Share (left side) - Immersive HUD Toggle 
+- L1 + Start (right side) - Forceful Tongue Skill Menu (Shout Mod)
+- L1 + Right Pad Click - Shoulder Cam Switch
 
-Keybinds (L1 + R1 Modifiers) - You must hold L1 THEN hold R1 for the following keybinds to work
-- L1 + R1 + Dpad Left - Group 5
-- L1 + R1 + Dpad Down - Group 6
-- L1 + R1 + Dpad Right - Group 7
-- L1 + R1 + Dpad Up - Group 8
-- L1 + R1 + Square - Left Power Attack
-- L1 + R1 + X - Backwards Power Attack
-- L1 + R1 + Circle - Right Power Attack
-- L1 + R1 + Triangle - Forward Power Attack
+R1 Modifier Keybinds - This button must be held down for the following keybinds to work
+- R1 + R2 - Standing Power Attack
+- R1 + Dpad Left - Group 5
+- R1 + Dpad Down - Group 6
+- R1 + Dpad Right - Group 7
+- R1 + Dpad Up - Group 8
+- R1 + Square - Left Power Attack
+- R1 + Cross - Backwards Power Attack
+- R1 + Circle - Right Power Attack
+- R1 + Triangle - Forward Power Attack
+- R1 + Select (left side) - ENB Lens Toggle
+- R1 + Start (right Side) - ENB Screenshot
+- R1 + Left Stick Click - Lichdom Mode Change
 
-Keybinds (Right Side Pad (RSP) Modifier) - This button must be held down for the following keybinds to work
-- RSP + Dpad Left - Follower Command
-- RSP + Dpad Down - Follower Retreat
-- RSP + Dpad Right - Follower Calm
-- RSP + Dpad Up - Follower Attack
-- RSP + Share - Immersive HUD Toggle
-- RSP + Start - Forceful Tongue Shout Skill Tree
-
-Keybinds (RSP + L1 Modifiers) - You must hold RSP THEN L1 for the following keybinds to work
-- RSP + L1 + Dpad Left - Follower Trade
-- RSP + L1 + Dpad Down - Follower Get Behind Me
-- RSP + L1 + Dpad Right - Follower Wait
-- RSP + L1 + Dpad Up - Follower Teleport
-
-Keybinds (RSP + R1 Modifiers) - You must hold RSP THEN R1 for the following keybinds to work
-- RSP + R1 + Square - Create Item
-- RSP + R1 + X - Instincts
-- RSP + R1 + Circle - Harvest Wood
-- RSP + R1 + Triangle - Build Campfire
+Campfire Actions (Hold Left Side Pad Button) - You must hold the Left Side Pad (LSP) Button for the following keybinds to work
+- LSP + Square - Create Item
+- LSP + Cross - Instincts
+- LSP + Circle - Harvest Wood
+- LSP + Triangle - Build Campfire
 
 ### Xbox:
 
 I highly suggest you take a look at the configurations and familiarize yourself with the buttons. All have been labeled so you can easily see what button does what. They will also be listed for a comprehensive view of every keybind, but they will make more sense if you visualize them in the configuration. Make sure to switch between all three layers (Default, LB Hotkeys and RB Hotkeys).
 
-![image](https://user-images.githubusercontent.com/89932487/133154424-9fea2031-ed45-40b1-84fc-fda1e096b1ab.png)
+![image](https://user-images.githubusercontent.com/89932487/133794350-b206104c-76f7-443f-933b-8031bc13c566.png)
 
 Keybinds (No Modifiers)                            
 - LB - Modifier Button & Left Shift 
