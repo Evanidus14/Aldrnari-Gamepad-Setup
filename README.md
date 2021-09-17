@@ -219,8 +219,7 @@ NOTE: Like was mentioned in the beginning of the readme, you need to follow this
 
 ### Vanilla Control Changes
 
-#### Use Your Keyboard For This Step!
-You need to load the custom control map we created for our configurations to work. To do that, simply open the controls option in the main menu while in your base save and hit the "Restore Defaults" option. This will load all of our custom bindings. If you miss this step, you will have messed up controls and navigating menus will be hell. 
+Unfortunately for you, making any changes to the default controls will mess up the entire setup - So DO NOT make any changes to the default controls. Aldrnari now has a custom control mapping that makes this whole setup possible. Any changes you do make will most likely break all of it - so don't.
 
 ### MCM Settings
 
