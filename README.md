@@ -48,7 +48,14 @@ Feel free to browse through the various keybindings to get a visual of the contr
 
 ### Engarde and True Directional Movement
 
+#### Engarde
+Engarde is the combat mod being used by Alrnari. Go to the [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) for details on the gameplay changes made. What you need to understand about Engarde when it comes to playing with your controller, is how it was designed and why it is notoriously hard to play with a controller. It was designed around keyboard directional keys for determining movement, so since we use an analog stick, Engarde can't read what our character is doing and therefore we can't use the dodges or power attacks correctly (without a custom solution). We have gotten around that issue by mapping key combos that, when pressed, press a directional keyboard key (W, A, S, and/or D) and the dodge or power attack key at the same time. This allows us to get past the limitations of Engarde when it comes to a controller, however...
 
+#### True Directional Movement
+True Directional Movement (TDM) is the movement overhaul everyone wants to be using - and for good reason: it allows you to play Skyrim with a truly modern movement style. It also features a lock on feature (much like Dark Souls) that you will need to make extensive use of for this entire setup to really shine. 
+
+#### Engarde+True Directional Movement Together
+So, with both mods put together, we have some issues. Firstly, because TDM changes how movement occurs, it messes with our Engarde setup. Since Engarde relies on strafing type movement to determine dodge and power attack direction and since TDM essentially puts your character into an "always moving forward" state, we won't be able to use our directional features from Engarde... UNLESS you are locked on! Once you lock on to enemies, all of the features of both mods come together and you can experience the full effect of both mods. So, when not locked on, it won't matter which directional dodge or power attack you try to use, you'll simply do the forward dodge or power attack. But that all changes when you lock on to your enemies. 
 
 ## Configuration In-Depth Explanation
 
