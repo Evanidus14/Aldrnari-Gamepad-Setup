@@ -2,22 +2,21 @@
 
 ![Logo](https://i.imgur.com/qOPBy7D.png)
 
-Setting up Aldrnari with a gamepad can be a daunting task with all of it's extra features and possible keybinds. In addition to that, the main combat mod, Engarde, works in such a way that dodges and power attacks won't respond to your analog stick movements - effectively locking you out of most of your defensive and offensive options right off the bat. There are some workarounds such as mapping your controller to keyboard keys for movement, but this is less than ideal. With this guide, you'll be able to play Aldrnari utilizing all of what it's systems have to offer with your gamepad (mostly comfortably) while still enjoying all of what a controller brings to the table. Finally, you won't have to download any crazy software or tinker around with configurations - all of that has been done for you and is easily available within Steam's controller configuration tool.
+Setting up Aldrnari with a gamepad can be a daunting task with all of it's extra features and possible keybinds. In addition to that, the main combat mod, Engarde, works in such a way that dodges and power attacks won't respond to your analog stick movements - effectively locking you out of most of your defensive and offensive options right off the bat. There are some workarounds such as mapping your controller to keyboard keys for movement, but this is less than ideal. With this guide, you'll be able to play Aldrnari utilizing all of what it's systems have to offer comfortably with your gamepad while still enjoying all of what a controller brings to the table. Finally, you won't have to download any crazy software or tinker around with configurations - all of that has already been done for you and will be linked for easy access further into the guide.
 
-... You *will* have to spend time and read this guide in its entirety though, otherwise you will be lost when trying to use your controller in game. You will also be told to RTFM if you ask any questions about controller support in the Aldrnari support channel that are answered within this guide. 
+... You *will* have to spend time and read this guide in its entirety though, otherwise you will be lost when trying to use your controller in game. You will also be told to RTFM if you ask any questions about controller support in the Aldrnari support channel that are answered within this guide. This guide has been prepared to help YOU help yourself. If you can't be bothered to read then no one else will bother to help. 
 
 ## First Steps & Setup
 
 ### Important Considerations
-Make sure you follow this guide AFTER you finish the install guide and MCM settings in the main readme. If you do not, you will most likely run into keybinding issues as anything you set up in this guide could or will be overwritten.
+Make sure you follow this guide AFTER you finish the install guide and MCM settings in the main readme. If you do not, you will most likely run into keybinding issues as anything you set up in this guide could or will be overwritten by the main MCM keybindings or settings.
 
-### Additional Mod Activation
-
-The first step is opening up MO2 and looking within the main pane (on the left) to ensure that the mod "Extended Hotkey System" is enabled under the "User Interface" seperator. This mod allows any key to be used as a hotkey within SKYUI's favorites menu and is integral for full utilization of your gamepad. Once you've checked the box next to the "Extended Hotkey System" mod, you can open Steam for the next step.
+### Connecting Your Controller To Steam
+This step can be somewhat difficult depending on your hardware and PC setup. Before we move on, Steam needs to be recognizing your controller for you to be able to apply the Aldrnari configurations. If you are having difficulty, make sure you go into Steam's settings and then controller settings to ensure you have the right support boxes checked for the controller you're using. Steam's controller support is very broad so just about any controller will work. This guide, however, will be focusing on the PS4 controller and the Xbox controller as those are the most widely known and used. If you still can't get your controller connected, you'll have to google solutions as the potential source of the problem could be agreat many things and support for it goes beyond the scope of this guide.
 
 ### Steam Controller Configuration Setup
 
-Once you have Steam open, ensure that your controller is on and being read by Steam. Some of you may experience trouble during the "getting Steam to recognize my controller" stage, so there is a controller troubleshooting section at the bottom of this readme for you to reference. Otherwise, once you're controller is up and running, go over to Skyrim Special Edition in your library and click on "Controller Configuration" right underneath the logo on the right side. 
+Once you have your controller connected and recognized by Steam open, ensure that your controller is on and being read by Steam. Some of you may experience trouble during the "getting Steam to recognize my controller" stage, so there is a controller troubleshooting section at the bottom of this readme for you to reference. Otherwise, once you're controller is up and running, go over to Skyrim Special Edition in your library and click on "Controller Configuration" right underneath the logo on the right side. 
 
 ![image](https://user-images.githubusercontent.com/89932487/133179566-62263d0b-9c65-42e3-b56b-30554f4423c0.png)
 
