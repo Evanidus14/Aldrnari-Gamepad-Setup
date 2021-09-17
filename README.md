@@ -37,26 +37,30 @@ Simply copy and paste the appropriate controller configuration from below into y
 
 The Steam controller configurations are here: 
   - [PS4/5 controller] (steam://controllerconfig/489830/2604084518)
-  - ![image](https://user-images.githubusercontent.com/89932487/133794142-8eb67c39-2dc2-4a31-9228-faeb6f06555f.png)
+  ![image](https://user-images.githubusercontent.com/89932487/133794142-8eb67c39-2dc2-4a31-9228-faeb6f06555f.png)
 
   - [Xbox and all 3rd party controllers] (steam://controllerconfig/489830/2603854267)
-  - ![image](https://user-images.githubusercontent.com/89932487/133794350-b206104c-76f7-443f-933b-8031bc13c566.png)
+  ![image](https://user-images.githubusercontent.com/89932487/133794350-b206104c-76f7-443f-933b-8031bc13c566.png)
 
-Feel free to browse through the various keybindings to get a visual of the controls, although, DO NOT CHANGE ANYTHING as that will completely mess up your controls. 
+Feel free to browse through the various keybindings to get a visual of the controls. However, DO NOT CHANGE ANYTHING! That will completely mess up your controls. If you do accidentally change something, simply re-import the configuration from this guide. 
 
-## Configurations Explanation
+## Important Mods to Understand
 
-These configurations were made possible by Steam's "shift modifier" and "action layer" options. What that means is this - While playing normally, you have the vanilla keybinds (for the most part). However, when you hold one or two of the modifiers, you get another set of new keybinds. I made both configurations virtually the same between PS4/5 and Xbox for ease of use. The two modifiers I make extensive use of are the LB and RB buttons on the Xbox controller and L1, R1 & Right Side Pad (RSP) on the PS4/5 controller. That means their vanilla functions have been remapped elswhere on the controller where it makes sense in order to free them up for modifier usage. These will be your main mode of switching your "focus".
-
-With how many keybinds are necessary to fully utilize ultra-modded Skyrim, any gamepad setup can get quite complicated. With that being said, I have attempted to make this less daunting by having each modifier have a specific "focus." Here are the areas of "focus" that I built into the configurations:
-
-- Directional Pad Buttons (Hotkey Focus): Holding LB/L1 will give you access to your first 4 group hotkeys (from SkyUI, more on that later) and are located on the directional pad. Holding LB/L1 and then RB/R1 will give you access to the remaining 4 groups, also on your directional pad. 
-- Directional Pad Buttons (Follower Focus): Holding RB/RSP gives you access to several of the follower commands from Follower Framework, mapped to the directional buttons. Holding RB/RSP and then LB/L1 gives you access to the remaining 4 follower commands, also on the directional pad.
+### Engarde and True Directional Movement
 
 
-- Face Buttons (Combat Actions Focus): Holding LB/L1 will give you access to all four directional dodges available from Engarde (Read the [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) for more information about it) which are located on the face buttons in the directions that make sense - the left button (Square for PS4/5 or X for Xbox) makes you dodge left, and the right button (Circle for PS4/5 or B for Xbox) makes you dodge right etc. Holding LB/L1 and then RB/R1 will give you access to your power attacks from Engarde. These were also implemented in the same way as the dodges - Square/X gives you the left power attack and Circle/B gives you the right power attack. The one exception to this is the standing power attack. This was mapped to holding L1 and then pressing the right trigger for PS4/5 and holding RB and pressing the right trigger for Xbox as there was no more room on the face button pad. 
-- Face Buttons (Campfire Actions): Holding RB and LB on the Xbox controller and RSP and R1 on the PS4/5 controller will give you all four Campfire actions on your face buttons (Square/X = Create Item, Triangle/Y = Build Campfire, Circle/B = Harvest Wood, and X/A = Instincts.)
 
+## Configuration In-Depth Explanation
+
+These configurations were made possible by Steam's "shift modifier" and "action layer" options. What that means is this - While playing normally, you have the vanilla/default keybinds (for the most part). However, when you hold one of two modifiers, you get another set of new keybinds. I made both configurations virtually the same between PS4/5 and Xbox for ease of use. The two modifiers I make extensive use of are the LB & RB buttons on the Xbox controller and L1 & R1 for the PS4/5 controller. That means their vanilla/default functions have been remapped elswhere on the controller where it makes sense in order to free them up for modifier usage. These will be your main mode of switching your "focus."
+
+With how many keybinds are necessary to fully utilize ultra-modded Skyrim, any gamepad setup can get quite complicated. With that being said, I have attempted to make this less daunting by having each modifier have a specific "focus." Here are the TWO main areas of "focus" that I built into the configurations:
+
+#### Dodge Focus
+-Holding L1/LB will bring up your directional dodges from engarde and your first set of 4 groups from SKYUI. The 4 groups are located on the directional buttons (left, right, up, and down) and the 4 dodges are located on your face buttons (PS4/5: Square, Circle, Triangle, and Cross) (Xbox: X, Y, B, and A). They were added to the controller in a way that maked sense to me - holding L1/LB and hitting Triangle/Y will give you a forward dodge. Holding L1/LB and hitting Square/X will give you your left dodge etc. 
+
+#### Power Attack Focus
+Holding R1/RB will bring up your directional power attacks from engarde and your last set of 4 groups from SKYUI. The groups are located on the directional buttons like before (left, right, down, and up) and the power attacks are located on the face buttons (PS4/5: Square, Circle, Triangle, and Cross) (Xbox: X, Y, B, and A). They were added to the controller in a way that maked sense to me - holding R1/RB and hitting Triangle/Y will give you a forward power attack. Holding R1/RB and hitting Square/X will give you your left power attack etc.
 
 
 ## Keybindings
