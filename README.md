@@ -23,18 +23,21 @@ This step can be somewhat difficult depending on your hardware and PC setup. Bef
 So, that will look like this...
 ![image](https://user-images.githubusercontent.com/89932487/133790433-f562b809-d170-487c-aa3a-2763e6bc7d79.png)
 
-... and then this. Make sure you check the appropriate box or boxes for your controller situation!
-![image](https://user-images.githubusercontent.com/89932487/133790862-3d2c800a-f518-4d2f-8aaf-206897e84edb.png)
+... and then this. Make sure you check the appropriate box or boxes for your specific controller situation!
+![image](https://user-images.githubusercontent.com/89932487/133791623-28808010-9c55-426f-a998-a1d7f30edbb0.png)
+
 
 Steam's controller support is very broad, so just about any controller will work. This guide, however, will be focusing on the PS4 controller and the Xbox controller, as those are the most widely known and used. If you still can't get your controller connected, you'll have to google solutions as the potential source of the problem could be a great many things and support/troubleshooting for it goes beyond the scope of this guide. Take solace in the fact that someone out there has most likely experienced your issue and has a solution for you, you just have to find it (yourself).
 
 ### Steam Controller Configuration Setup
 
-As was stated earlier, you don't need to mess around with any custom controls, software, or configurations yourself, that has ALL been done for you. This step is simply applying the configuration that has already been made to your specific controller. The configurations were made on a PS5 controller and an Xbox Elite controller, but they will still work with earlier generation models. That is to say, the PS5 controller configuration works with a PS4 controller and the Xbox Elite configuration works with any Xbox controller. If you're using some sort of wonky 3rd party controller, it *should* work with the Xbox configuration. 
+As was stated earlier, you don't need to mess around with any custom controls, software, or configurations yourself, that has ALL been done for you. This step is simply applying the configuration that has already been made to your specific controller. The configurations were made on a PS5 controller and an Xbox Elite controller, but they will still work with earlier generation models. That is to say, the PS5 controller configuration works with a PS4 controller and the Xbox Elite configuration works with any Xbox controller. If you're using some sort of wonky 3rd party controller, it *should* work with the Xbox configuration. So, depending on which controller you're using, Steam may give you a warning telling you the configuration you are trying to apply was made for a different controller, simply hit the "OK" option and the controls will map appropriately - SO LONG AS YOU APPLIED THE MATCHING CONFIGURATION THAT WAS JUST MENTIONED. 
 
-The Steam controller configurations are linked here:
-  - [PS4/5 controller](steam://controllerconfig/489830/2604084518)
-  - [Xbox and all 3rd party controllers](steam://controllerconfig/489830/2603854267)
+Simply copy and paste the appropriate controller configuration from below into your browser and it will attempt to open Steam. Allow it to do so and then accept the configuration as was just mentioned.
+
+The Steam controller configurations are here: 
+  - [PS4/5 controller] (steam://controllerconfig/489830/2604084518)
+  - [Xbox and all 3rd party controllers] (steam://controllerconfig/489830/2603854267)
 
 ## Configurations Explanation
 
