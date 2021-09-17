@@ -279,7 +279,10 @@ It is imperative that you map all keys exactly as they are in this guide! The co
     - Controls
       - Toggle Target Lock Key - Numpad /
       - Ensure that you do NOT have "Toggle Target Lock with Toggle POV Button" selected. 
-      - I also personally go into the Target Lock Widget and make the lock on UI a simple dot and scale it down. That is, of course, up to you. 
+      - I also personally go into the Target Lock Widget and make the lock on UI a simple dot and scale it down. That is, of course, up to you.
+
+#### ENB Specific Keybinds
+  - For your ENB shorcuts to work (the lens effect toggle and the screenshot button), you need to open your ENB (most likely the END key) and on the left side near the top you should see an "INPUT" heading. Open that selection and make sure you set the Screenshot key to the "INSERT" button and the lens toggle effect key to the "DELETE" key. 
 
 ### Remaining Free Keybinds
 
