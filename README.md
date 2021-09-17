@@ -29,7 +29,7 @@ So, that will look like this...
 
 Steam's controller support is very broad, so just about any controller will work. This guide, however, will be focusing on the PS4 controller and the Xbox controller, as those are the most widely known and used. If you still can't get your controller connected, you'll have to google solutions as the potential source of the problem could be a great many things and support/troubleshooting for it goes beyond the scope of this guide. Take solace in the fact that someone out there has most likely experienced your issue and has a solution for you, you just have to find it (yourself).
 
-### Steam Controller Configuration Setup
+### Importing The Steam Controller Configurations
 
 As was stated earlier, you don't need to mess around with any custom controls, software, or configurations yourself, that has ALL been done for you. This step is simply applying the configuration that has already been made to your specific controller. The configurations were made on a PS5 controller and an Xbox Elite controller, but they will still work with earlier generation models. That is to say, the PS5 controller configuration works with a PS4 controller and the Xbox Elite configuration works with any Xbox controller. If you're using some sort of wonky 3rd party controller, it *should* work with the Xbox configuration. So, depending on which controller you're using, Steam may give you a warning telling you the configuration you are trying to apply was made for a different controller, simply hit the "OK" option and the controls will map appropriately - SO LONG AS YOU APPLIED THE MATCHING CONFIGURATION THAT WAS JUST MENTIONED. 
 
@@ -46,12 +46,12 @@ Feel free to browse through the various keybindings to get a visual of the contr
 
 ## Important Mods to Understand
 
-### Engarde and True Directional Movement
+### Engarde
 
-#### Engarde
 Engarde is the combat mod being used by Alrnari. Go to the [Modified Gameplay.md](https://github.com/SovnSkyrim/Aldrnari/blob/main/Modified%20Gameplay.md) for details on the gameplay changes made. What you need to understand about Engarde when it comes to playing with your controller, is how it was designed and why it is notoriously hard to play with a controller. It was designed around keyboard directional keys for determining movement, so since we use an analog stick, Engarde can't read what our character is doing and therefore we can't use the dodges or power attacks correctly (without a custom solution). We have gotten around that issue by mapping key combos that, when pressed, press a directional keyboard key (W, A, S, and/or D) and the dodge or power attack key at the same time. This allows us to get past the limitations of Engarde when it comes to a controller, however...
 
-#### True Directional Movement
+### True Directional Movement
+
 True Directional Movement (TDM) is the movement overhaul everyone wants to be using - and for good reason: it allows you to play Skyrim with a truly modern movement style. It also features a lock on feature (much like Dark Souls) that you will need to make extensive use of for this entire setup to really shine. 
 
 #### Engarde+True Directional Movement Together
