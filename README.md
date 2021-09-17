@@ -39,7 +39,7 @@ The Steam controller configurations are here:
   - [PS4/5 controller] (steam://controllerconfig/489830/2604084518)
   ![image](https://user-images.githubusercontent.com/89932487/133794142-8eb67c39-2dc2-4a31-9228-faeb6f06555f.png)
 
-  - [Xbox and all 3rd party controllers] (steam://controllerconfig/489830/2603854267)
+  - [Xbox and all 3rd party controllers] (steam://controllerconfig/489830/2604230895)
   ![image](https://user-images.githubusercontent.com/89932487/133794350-b206104c-76f7-443f-933b-8031bc13c566.png)
 
 Feel free to browse through the various keybindings to get a visual of the controls. However, DO NOT CHANGE ANYTHING! That will completely mess up your controls. If you do accidentally change something, simply re-import the configuration from this guide. 
@@ -120,7 +120,6 @@ L1 Modifier Keybinds - This button must be held down for the following keybinds 
 - L1 + Circle - Dodge Right
 - L1 + Triangle - Dodge Forward
 - L1 + Left Stick Click - Sneak
-- L1 + Right Stick Click - Toggle POV
 - L1 + Share (left side) - Immersive HUD Toggle 
 - L1 + Start (right side) - Forceful Tongue Skill Menu (Shout Mod)
 - L1 + Right Pad Click - Shoulder Cam Switch
@@ -147,30 +146,32 @@ Campfire Actions (Hold Left Side Pad Button) - You must hold the Left Side Pad (
 
 ### Xbox:
 
-I highly suggest you take a look at the configurations and familiarize yourself with the buttons. All have been labeled so you can easily see what button does what. They will also be listed for a comprehensive view of every keybind, but they will make more sense if you visualize them in the configuration. Make sure to switch between all three layers (Default, LB Hotkeys and RB Hotkeys).
+I highly suggest you take a look at the configurations and familiarize yourself with the buttons. All have been labeled so you can easily see what button does what. They will also be listed for a comprehensive view of every keybind, but they will make more sense if you visualize them in the configuration. Make sure to switch between all three layers (Default, LB Hotkeys and RB Hotkeys). Keep in mind that while holding LB or RB, any buttons that do not have a mapping listed here will perform the mapping from the default "layer" of the configuration.
 
 ![image](https://user-images.githubusercontent.com/89932487/133794350-b206104c-76f7-443f-933b-8031bc13c566.png)
 
-Keybinds (No Modifiers)                            
+Default Keybinds (No Modifiers)                            
 - LB - Modifier Button & Left Shift 
-- LT - Left Hand
+- Left Trigger - Left Hand
 - RB - Modifier Button
-- RT - Right Hand
+- Right Trigger - Right Hand
 - Dpad Left - Hotkey
-- Dpad Down - Open Favorites
+- Dpad Down - Hotkey
 - Dpad Right - Hotkey
-- Dpad Up - Open Favorites
-- X - Ready/Sheath
+- Dpad Up - Hotkey
+- X - Quick Heal
+- X (Long Hold) - Quick Magicka Potion
 - A - Activate
-- B - Tween Menu
+- B - Sprint
 - Y - Jump
-- Left Stick Click - Sprint
+- Left Stick Click - Ready/Sheath
 - Right Stick Click - Lock On
+- Right Stick Click (Hold for 0.25 seconds and then release) - Change POV
 - Select (left side) - Wait 
 - Start (right side) - System Menu
 
-Keybinds (LB Modifier) - This button must be held down for the following keybinds to work
-- LB + RT - Shout/Power
+LB Modifier Keybinds - This button must be held down for the following keybinds to work
+- LB + RB - Shout/Power
 - LB + Dpad Left - Group 1
 - LB + Dpad Down - Group 2
 - LB + Dpad Right - Group 3
@@ -180,37 +181,29 @@ Keybinds (LB Modifier) - This button must be held down for the following keybind
 - LB + B - Dodge Right
 - LB + Y - Dodge Forward
 - LB + Left Stick Click - Sneak
-- LB + Right Stick Click - Toggle POV
-- LB + Share (left side) - Quick Health Potion 
-- LB + Start (right side) - Quick Magicka Potion
+- LB + Select (left side) - Immersive HUD Toggle 
+- LB + Start - Forceful Tongue Skill Menu (Shout Mod)
+- LB + Start (Long Hold) - Shoulder Cam Switch
 
-Keybinds (LB + RB Modifiers) - You must hold LB THEN hold RB for the following keybinds to work
-- LB + RB + Dpad Left - Group 5
-- LB + RB + Dpad Down - Group 6
-- LB + RB + Dpad Right - Group 7
-- LB + RB + Dpad Up - Group 8
-- LB + RB + X - Left Power Attack
-- LB + RB + A - Backwards Power Attack
-- LB + RB + B - Right Power Attack
-- LB + RB + Y - Forward Power Attack
+RB Modifier Keybinds - This button must be held down for the following keybinds to work
+- R1 + R2 - Standing Power Attack
+- R1 + Dpad Left - Group 5
+- R1 + Dpad Down - Group 6
+- R1 + Dpad Right - Group 7
+- R1 + Dpad Up - Group 8
+- R1 + Square - Left Power Attack
+- R1 + Cross - Backwards Power Attack
+- R1 + Circle - Right Power Attack
+- R1 + Triangle - Forward Power Attack
+- R1 + Select (left side) - ENB Lens Toggle
+- R1 + Start (right Side) - ENB Screenshot
+- R1 + Left Stick Click - Lichdom Mode Change
 
-Keybinds (RB Modifier) - This button must be held down for the following keybinds to work
-- RB + Dpad Left - Follower Command
-- RB + Dpad Down - Follower Retreat
-- RB + Dpad Right - Follower Calm
-- RB + Dpad Up - Follower Attack
-- RB + Left Stick Click - Immersive HUD Toggle
-- RB + Right Stick Click - Forceful Tongue Shout Skill Tree
-
-Keybinds (RB + LB Modifiers) - You must hold RB THEN LB for the following keybinds to work
-- RB + LB + Dpad Left - Follower Trade
-- RB + LB + Dpad Down - Follower Get Behind Me
-- RB + LB + Dpad Right - Follower Wait
-- RB + LB + Dpad Up - Follower Teleport
-- RB + LB + X - Create Item
-- RB + LB + A - Instincts
-- RB + LB + B - Harvest Wood
-- RB + LB + Y - Build Campfire
+Campfire Actions (Hold Left Side Pad Button) - You must hold the Left Side Pad (LSP) Button for the following keybinds to work
+- LSP + Square - Create Item
+- LSP + Cross - Instincts
+- LSP + Circle - Harvest Wood
+- LSP + Triangle - Build Campfire
 
 ## MCM & Control Settings
 
