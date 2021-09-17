@@ -277,8 +277,7 @@ It is imperative that you map all keys exactly as they are in this guide! The co
 #### True Directional Movement
   - Target Lock
     - Controls
-      - Toggle Target Lock Key - Numpad /
-      - Ensure that you do NOT have "Toggle Target Lock with Toggle POV Button" selected. 
+      - Enable "Toggle Target Lock with Toggle POV Button" 
       - I also personally go into the Target Lock Widget and make the lock on UI a simple dot and scale it down. That is, of course, up to you.
 
 #### ENB Specific Keybinds
