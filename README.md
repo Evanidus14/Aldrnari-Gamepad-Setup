@@ -18,13 +18,22 @@ Make sure you follow this guide AFTER you finish the install guide and MCM setti
 
 ### Connecting Your Controller To Steam
 
-This step can be somewhat difficult depending on your hardware and PC setup. Before we move on, Steam needs to be recognizing your controller for you to be able to apply the Aldrnari configurations. If you are having difficulty, make sure you go into Steam's settings and then controller settings to ensure you have the right support boxes checked for the controller you're using. Steam's controller support is very broad, so just about any controller will work. This guide, however, will be focusing on the PS4 controller and the Xbox controller, as those are the most widely known and used. If you still can't get your controller connected, you'll have to google solutions as the potential source of the problem could be a great many things and support/troubleshooting for it goes beyond the scope of this guide.
+This step can be somewhat difficult depending on your hardware and PC setup. Before we move on, Steam needs to be recognizing your controller for you to be able to apply the Aldrnari configurations. If you are having difficulty, make sure you go into Steam's settings, then controller settings, and then click on "GENERAL CONTROLLER SETTINGS" to ensure you have the right support boxes checked for the controller you're using. 
+
+So, that looks like this...
+![image](https://user-images.githubusercontent.com/89932487/133790433-f562b809-d170-487c-aa3a-2763e6bc7d79.png)
+
+... and this.
+![image](https://user-images.githubusercontent.com/89932487/133790862-3d2c800a-f518-4d2f-8aaf-206897e84edb.png)
+
+
+Steam's controller support is very broad, so just about any controller will work. This guide, however, will be focusing on the PS4 controller and the Xbox controller, as those are the most widely known and used. If you still can't get your controller connected, you'll have to google solutions as the potential source of the problem could be a great many things and support/troubleshooting for it goes beyond the scope of this guide.
 
 ### Steam Controller Configuration Setup
 
 As was stated earlier, you don't need to mess around with any custom controls, software, or configurations yourself, that has ALL been done for you. This step is simply applying the configuration that has already been made to your specific controller. The configurations were made on a PS5 controller and an Xbox Elite controller, but they will still work with earlier generation models. That is to say, the PS5 controller configuration works with a PS4 controller and the Xbox Elite configuration works with any Xbox controller. If you're using some sort of wonky 3rd party controller, it *should* work with the Xbox configuration. 
 
-The Steam controller configurations are lnked here:
+The Steam controller configurations are linked here:
   - [PS4/5 controller](steam://controllerconfig/489830/2604084518)
   - [Xbox and all 3rd party controllers](steam://controllerconfig/489830/2603854267)
 
