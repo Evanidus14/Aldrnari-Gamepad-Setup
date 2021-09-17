@@ -88,7 +88,7 @@ I highly suggest you take a look at the configurations and familiarize yourself 
 ![image](https://user-images.githubusercontent.com/89932487/133794142-8eb67c39-2dc2-4a31-9228-faeb6f06555f.png)
 
 Default Keybinds (No Modifiers)                            
-- L1 - Modifier Button & Left Shift
+- L1 - Modifier Button & Left Shift (Engarde Modifier Button)
 - L2 - Left Hand
 - R1 - Modifier Button
 - R2 - Right Hand
@@ -154,7 +154,7 @@ I highly suggest you take a look at the configurations and familiarize yourself 
 ![image](https://user-images.githubusercontent.com/89932487/133794350-b206104c-76f7-443f-933b-8031bc13c566.png)
 
 Default Keybinds (No Modifiers)                            
-- LB - Modifier Button & Left Shift 
+- LB - Modifier Button & Left Shift (Engarde Modifier Button)
 - Left Trigger - Left Hand
 - RB - Modifier Button
 - Right Trigger - Right Hand
