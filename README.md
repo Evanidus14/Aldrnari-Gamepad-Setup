@@ -313,7 +313,7 @@ If you take the time to understand how these systems and features work, you will
 
 #### Extended Hotkey System
 
-While this mod provides a great amount of freedom, I am, in truth, not utilizing much of it in this guide. However, if you feel you need more hotkeys than I have provided, feel free to add as many as you want and add as many layers to your steam configuration as you would like. I feel 8 groups plus 2 quick access hotkeys is more than enough for most, including me. As I've stated before though, if you venture off beyond the scope of this guide, please do not ask for support in the support channel. Sovn has enough to manage as it is. 
+While this mod provides a great amount of freedom, I am, in truth, not utilizing much of it in this guide. However, if you feel you need more hotkeys than I have provided, feel free to add as many as you want and add as many layers to your steam configuration as you would like. I feel 8 groups plus 4 quick access hotkeys is more than enough for most, including me. As I've stated before though, if you venture off beyond the scope of this guide, please do not ask for support in the support channel. Sovn has enough to manage as it is. 
 
 #### You're Done! Have Fun!
 
