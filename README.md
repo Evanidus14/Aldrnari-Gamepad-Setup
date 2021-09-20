@@ -223,7 +223,7 @@ NOTE: Like was mentioned in the beginning of the readme, you need to follow this
 
 ### Vanilla Control Changes and Import
 
-The first step here is to go into the Aldrnari install folder and then go into the "Stock Game" folder. If you see a Custom_Controlmap.txt, delete it.
+The first step here is to go into the Aldrnari install folder and then go into the "Stock Game" folder. If you see a Custom_Controlmap.txt, delete it. Then go into your actual Skyrim Install's Data folder and delete any Custom_controlmap.txt if you see one. You shouldn't have one, but check just in case.
 
 Now, we have a controlmap.txt within a mod that needs to be loaded by Skyrim. For us to ensure that happens, open up MO2 and ensure that the mod "Gamepad Specific - Modified controlmap.txt" is enabled. Now, when you are in game and AFTER you have setup all the MCMs from the main guide, open the system menu and go into controls. Hit the button that resets the controls to default. This will ensure that our modified controls are loaded. 
 
