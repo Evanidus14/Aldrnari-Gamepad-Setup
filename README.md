@@ -37,10 +37,10 @@ Simply copy and paste the appropriate controller configuration from below into y
 
 The Steam controller configurations are here: 
   - [PS4/5 controller] (steam://controllerconfig/489830/2607356424)
-  ![image](https://user-images.githubusercontent.com/89932487/133794142-8eb67c39-2dc2-4a31-9228-faeb6f06555f.png)
+  ![image](https://user-images.githubusercontent.com/89932487/134069334-d6e0d095-663c-40ae-973e-afca24ec26d7.png)
 
   - [Xbox and all 3rd party controllers] (steam://controllerconfig/489830/2607358221)
-  ![image](https://user-images.githubusercontent.com/89932487/133794350-b206104c-76f7-443f-933b-8031bc13c566.png)
+  ![image](https://user-images.githubusercontent.com/89932487/134069164-50ed52f1-dca5-4fa2-885a-515ef51f2a73.png)
 
 Feel free to browse through the various keybindings to get a visual of the controls. However, DO NOT CHANGE ANYTHING! That will completely mess up your controls. If you do accidentally change something, simply re-import the configuration from this guide. 
 
