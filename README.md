@@ -36,10 +36,10 @@ As was stated earlier, you don't need to mess around with any custom controls, s
 Simply copy and paste the appropriate controller configuration from below into your browser and it will attempt to open Steam. Allow it to do so and then accept the configuration as was just mentioned.
 
 The Steam controller configurations are here: 
-  - [PS4/5 controller] (steam://controllerconfig/489830/2604249360)
+  - [PS4/5 controller] (steam://controllerconfig/489830/2607356424)
   ![image](https://user-images.githubusercontent.com/89932487/133794142-8eb67c39-2dc2-4a31-9228-faeb6f06555f.png)
 
-  - [Xbox and all 3rd party controllers] (steam://controllerconfig/489830/2604230895)
+  - [Xbox and all 3rd party controllers] (steam://controllerconfig/489830/2607358221)
   ![image](https://user-images.githubusercontent.com/89932487/133794350-b206104c-76f7-443f-933b-8031bc13c566.png)
 
 Feel free to browse through the various keybindings to get a visual of the controls. However, DO NOT CHANGE ANYTHING! That will completely mess up your controls. If you do accidentally change something, simply re-import the configuration from this guide. 
@@ -73,6 +73,11 @@ Holding R1/RB will bring up your directional power attacks from engarde and your
 #### Gameplay & Controller Configuration Tutorial/Demo
 
 I've created a video that may make it easier for you to understand how the controls work as you'll be able to see them in action. It is HIGHLY SUGGESTED you sit through the entire video to properly understand this control scheme. I know it's long, but it will help. Also, I added on a little clip at the end explaining an important feature for Spellswords that I forgot to add in, so be sure to watch that bit too (This video will be updated, for now consider it a work-in-progress).
+
+***This video is now out of date, it will be updated in the near future***
+-The changes from the video are listed below
+  - The Engarde modifier (the button you must be pressing to be able to use the spell in your left hand while wielding a weapon in the right) is now mapped to the R1/RB button instead of the L1/LB button. This allows us to get rid of the loss of camera control while holding down the modifier. 
+  - In order to map the 4 hotkeys we have available  (dpad left, dpad down, dpad right, and dpad up on the gamepad) while in the favorites menu, you must now use the 1, 2, 3, or 4 buttons (NOT the numpad numbers, the numbers above your letters) on your keyboard instead of the directional buttons. To do this, highlight the power you want to map to one of your 4 hotkeys and then hold the left control butoon and press the number associated with each direction. Left is 1, down is 2, right is 3, and up is 4.
 
 https://youtu.be/GMPVL1EfFv8
 
