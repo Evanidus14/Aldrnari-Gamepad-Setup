@@ -74,9 +74,9 @@ Holding R1/RB will bring up your directional power attacks from engarde and your
 
 I've created a video that may make it easier for you to understand how the controls work as you'll be able to see them in action. It is HIGHLY SUGGESTED you sit through the entire video to properly understand this control scheme. I know it's long, but it will help. Also, I added on a little clip at the end explaining an important feature for Spellswords that I forgot to add in, so be sure to watch that bit too (This video will be updated, for now consider it a work-in-progress).
 
-https://youtu.be/GMPVL1EfFv8
-***This video is now out of date, it will be updated in the near future***
--The changes from the video are listed below
+https://youtu.be/GMPVL1EfFv8 ***This video is now out of date, it will be updated in the near future***
+
+The changes from the video are listed below
   - The Engarde modifier (the button you must be pressing to be able to use the spell in your left hand while wielding a weapon in the right) is now mapped to the R1/RB button instead of the L1/LB button. This allows us to get rid of the loss of camera control while holding down the modifier. 
   - In order to map the 4 hotkeys we have available  (dpad left, dpad down, dpad right, and dpad up on the gamepad) while in the favorites menu, you must now use the 1, 2, 3, or 4 buttons (NOT the numpad numbers, the numbers above your letters) on your keyboard instead of the directional buttons. To do this, highlight the power you want to map to one of your 4 hotkeys and then hold the left control butoon and press the number associated with each direction. Left is 1, down is 2, right is 3, and up is 4.
 
