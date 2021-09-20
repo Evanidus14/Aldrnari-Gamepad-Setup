@@ -18,7 +18,7 @@ Make sure you follow this guide AFTER you finish the install guide and MCM setti
 
 ### Connecting Your Controller To Steam
 
-This step can be somewhat difficult depending on your hardware and PC setup. Before we move on, Steam needs to be recognizing your controller for you to be able to apply the Aldrnari configurations. If you are having difficulty, make sure you go into Steam's settings, then controller settings, and then click on "GENERAL CONTROLLER SETTINGS" to ensure you have the right support boxes checked for the controller you're using. 
+This step can be somewhat difficult depending on your hardware and PC setup. Before we move on, Steam needs to be recognizing your controller (THAT MEANS THE CONTROLLER NEEDS TO BE ON) for you to be able to apply the Aldrnari configurations. If you are having difficulty, make sure you go into Steam's settings, then controller settings, and then click on "GENERAL CONTROLLER SETTINGS" to ensure you have the right support boxes checked for the controller you're using. 
 
 So, that will look like this...
 ![image](https://user-images.githubusercontent.com/89932487/133790433-f562b809-d170-487c-aa3a-2763e6bc7d79.png)
@@ -88,14 +88,14 @@ I highly suggest you take a look at the configurations and familiarize yourself 
 ![image](https://user-images.githubusercontent.com/89932487/133794142-8eb67c39-2dc2-4a31-9228-faeb6f06555f.png)
 
 Default Keybinds (No Modifiers)                            
-- L1 - Modifier Button & Left Shift (Engarde Modifier Button)
+- L1 - Modifier Button & Left Shift 
 - L2 - Left Hand
-- R1 - Modifier Button
+- R1 - Modifier Button & Engarde Modifier (This is the key you have to hold to use a spell in the left hand while wielding a weapon in the right!)
 - R2 - Right Hand
-- Dpad Left - Hotkey
-- Dpad Down - Hotkey
-- Dpad Right - Hotkey
-- Dpad Up - Hotkey
+- Dpad Left Long Hold & Release - Hotkey 1
+- Dpad Down Long Hold & Release - Hotkey 2
+- Dpad Right Long Hold & Release - Hotkey 3
+- Dpad Up Long Hold & Release - Hotkey 4
 - Square - Quick Heal
 - Square (Long Hold) - Quick Magicka Potion
 - Cross - Activate
@@ -137,8 +137,8 @@ R1 Modifier Keybinds - This button must be held down for the following keybinds 
 - R1 + Cross - Backwards Power Attack
 - R1 + Circle - Right Power Attack
 - R1 + Triangle - Forward Power Attack
-- R1 + Select (left side) - ENB Lens Toggle
-- R1 + Start (right Side) - ENB Screenshot
+- R1 + Select (left side) - Quick Load
+- R1 + Start (right Side) - Quick Save
 - R1 + Left Stick Click - Lichdom Mode Change
 
 Campfire Actions (Hold Left Side Pad Button) - You must hold the Left Side Pad (LSP) Button for the following keybinds to work
@@ -154,14 +154,14 @@ I highly suggest you take a look at the configurations and familiarize yourself 
 ![image](https://user-images.githubusercontent.com/89932487/133794350-b206104c-76f7-443f-933b-8031bc13c566.png)
 
 Default Keybinds (No Modifiers)                            
-- LB - Modifier Button & Left Shift (Engarde Modifier Button)
+- LB - Modifier Button
 - Left Trigger - Left Hand
-- RB - Modifier Button
+- RB - Modifier Button & Engarde Modifier (This is the key you have to hold to use a spell in the left hand while wielding a weapon in the right!)
 - Right Trigger - Right Hand
-- Dpad Left - Hotkey
-- Dpad Down - Hotkey
-- Dpad Right - Hotkey
-- Dpad Up - Hotkey
+- Dpad Left Long Hold & Release - Hotkey 1
+- Dpad Down Long Hold & Release - Hotkey 2
+- Dpad Right Long Hold & Release - Hotkey 3
+- Dpad Up Long Hold & Release - Hotkey 4
 - X - Quick Heal
 - X (Long Hold) - Quick Magicka Potion
 - A - Activate
@@ -201,8 +201,8 @@ RB Modifier Keybinds - This button must be held down for the following keybinds 
 - RB + A - Backwards Power Attack
 - RB + B - Right Power Attack
 - RB + Y - Forward Power Attack
-- RB + Select - ENB Lens Toggle
-- RB + Start - ENB Screenshot
+- RB + Select - Quick Load
+- RB + Start - Quick Save
 - RB + Left Stick Click - Lichdom Mode Change
 
 Campfire Actions (Hold Select Button) - You must hold the Select Button for the following keybinds to work
@@ -217,9 +217,11 @@ You're nearly there! Now we can go in-game and do the final steps.
 
 NOTE: Like was mentioned in the beginning of the readme, you need to follow this guide AFTER you've already done the initial Aldrnari MCM setup. What I like to do is start a fresh new game, get ALL the MCM settings from the main guide taken care of, then I make a save. THEN, once you've gotten this far in the controller guide, load up that save with the MCM steps for the main guide complete already and add these final steps on top of it. When you finish, save again. Now you will have a base save that you can start new games from that is already all set up with all the MCM options from both the main guide and this controller guide without having to do them every time you start a new game.
 
-### Vanilla Control Changes
+### Vanilla Control Changes and Import
 
-Unfortunately for you, making any changes to the default controls will mess up the entire setup - So DO NOT make any changes to the default controls. Aldrnari now has a custom control mapping that makes this whole setup possible. Any changes you do make will most likely break all of it - so don't.
+The first step here is to go into the Aldrnari install folder and then go into the "Stock Game" folder. If you see a Custom_Controlmap.txt, delete it.
+
+Now, we have a controlmap.txt within a mod that needs to be loaded by Skyrim. For us to ensure that happens, open up MO2 and ensure that the mod "Gamepad Specific - Modified controlmap.txt" is enabled. Now, when you are in game and AFTER you have setup all the MCMs from the main guide, open the system menu and go into controls. Hit the button that resets the controls to default. This will ensure that our modified controls are loaded. 
 
 ### MCM Settings
 
@@ -238,7 +240,7 @@ It is imperative that you map all keys exactly as they are in this guide! The co
 
 #### Engarde
 - KeyButton
-  - Modifier - Left Shift (It should default to this)
+  - Modifier - (Use your controller for this button) Set it to R1/RB. It will say LB is what mapped but worry not, this is intended.
   - Power Attack Key - ]
   - Defensive Action Key - \
 
@@ -252,7 +254,7 @@ It is imperative that you map all keys exactly as they are in this guide! The co
 
 #### Optimal Potion Hotkey (USE YOUR CONTROLLER FOR THIS SPECIFIC MCM)
   - Hotkeys
-    - Health Potion Hotkey - Square on the PS4/5 controller or X on the Xbox Controller.
+    - Health Potion Hotkey - (Use your controller for this button) Square on the PS4/5 controller or X on the Xbox Controller.
     - Magicka Potion Hotkey - . (That is this key (>) for those unsure)
     - I did not add in the stamina potion hotkey because I never use it and there is limited real-estate to work with as it is... If you want it you'll have to add it in yourself with everything that would entail.
 
@@ -280,9 +282,11 @@ It is imperative that you map all keys exactly as they are in this guide! The co
       - Enable "Toggle Target Lock with Toggle POV Button" 
       - I also personally go into the Target Lock Widget and make the lock on UI a simple dot and scale it down. That is, of course, up to you.
 
-#### ENB Specific Keybinds
-  - For your ENB shorcuts to work (the lens effect toggle and the screenshot button), you need to open your ENB (most likely the END key) and on the left side near the top you should see an "INPUT" heading. Open that selection and make sure you set the Screenshot key to the "INSERT" button and the lens toggle effect key to the "DELETE" key. 
-
+#### ENB Specific Keybinds OR Quick Save and Quick Load
+  
+  - Your default control scheme is set for a quick save on R1/RB + Start and a quick load on R1/RB + Select
+  - If you opt for ENB shortcuts because you're a screen archer INSTEAD of quick save and quick load functionality, you need to open your ENB (most likely the END key) and on the left side near the top you should see an "INPUT" heading. Open that selection and make sure you set the Screenshot key to the "INSERT" button and the lens toggle effect key to the "DELETE" key. Now you need to go into the Steam Controller Configuration tool and change the bindings under R1/RB Hotkeys on the select button from F9 to INSERT and start button from F5 to DELETE.
+ 
 ### Remaining Free Keybinds
 
 There are still quite a few keys on your keyboard left for possible hotkey use. You have the entire numbers line (not the numpad, most of those are being used) as well as the following keys: O, U, Y, and L. That should be more than enough. Unfortunately, if you want to use any hotkeys beyond what I've built into the configurations, you'll have to add them in yourself. Support for this endeavor will not be provided. Fortunately, it isn't very hard to figure out with a little time and effort.
@@ -290,10 +294,6 @@ There are still quite a few keys on your keyboard left for possible hotkey use. 
 ## Final Tips & Troubleshooting
 
 While this setup has worked well in my testing, there are a few quirks that can and will occur. During my testing they did not hamper or stop my gameplay. I will attempt to address them all as I have encountered them. You will be directed back to the readme if you ask questions about these "quirks" in the support channel.
-
-#### Engarde Spellsword Tips
-
-If you love playing spellswords like I do, then this is vital for you to read through. I have mapped left shift to your L1/LB modifier button. That means it acts as both the modifier to change controls AND as your modifier in Engarde for using your left hand while wielding a sword in the right. All you have to do to cast your spells is hold L1/LB and start casting. You don't have to hold it the entire time, once you get the spell going, you can release L1/LB. If you want to free aim your spell, you'll need to let go of the L1/LB button after you get the spell going as for some reason, using the Engarde modifier stops you from being able to move your camera. However, if you want to rapid fire cast something (like Ice spike) it helps to lock on and then simply hold L1/LB and spam your left trigger to fire off spells until you need your right hand weapon. 
 
 #### Dodging Quirks
 
