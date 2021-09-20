@@ -322,7 +322,8 @@ While this mod provides a great amount of freedom, I am, in truth, not utilizing
 #### You're Done! Have Fun!
 
 #### Special Thanks
-Thanks for making this awesome list Sovn!
+Sovn for making this awesome list
+Warden Dakota for helping me create this guide and testing the setup thoroughly
 
 
 
