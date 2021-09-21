@@ -78,7 +78,7 @@ https://youtu.be/GMPVL1EfFv8 ***This video is now out of date, it will be update
 
 The changes from the video are listed below
   - The Engarde modifier (the button you must be pressing to be able to use the spell in your left hand while wielding a weapon in the right) is now mapped to the R1/RB button instead of the L1/LB button. This allows us to get rid of the loss of camera control while holding down the modifier. 
-  - In order to map the 4 hotkeys we have available  (dpad left, dpad down, dpad right, and dpad up on the gamepad) while in the favorites menu, you must now use the 1, 2, 3, or 4 buttons (NOT the numpad numbers, the numbers above your letters) on your keyboard instead of the directional buttons. To do this, highlight the power you want to map to one of your 4 hotkeys and then hold the left control butoon and press the number associated with each direction. Left is 1, down is 2, right is 3, and up is 4.
+  - (IMPORTANT) In order to map the 4 hotkeys we have available  (dpad left, dpad down, dpad right, and dpad up on the gamepad) while in the favorites menu, you must now use the 1, 2, 3, or 4 buttons (NOT the numpad numbers, the numbers above your letters) on your keyboard instead of the directional buttons. To do this, highlight the power you want to map to one of your 4 hotkeys and then press the number on your keyboard associated with each direction. Left is 1, down is 2, right is 3, and up is 4. Note - you won't be able to do this until you've completed the MCM steps.
 
 
 ## Keybindings
@@ -96,10 +96,10 @@ Default Keybinds (No Modifiers)
 - L2 - Left Hand
 - R1 - Modifier Button & Engarde Modifier (This is the key you have to hold to use a spell in the left hand while wielding a weapon in the right!)
 - R2 - Right Hand
-- Dpad Left Long Hold & Release - Hotkey 1
-- Dpad Down Long Hold & Release - Hotkey 2
-- Dpad Right Long Hold & Release - Hotkey 3
-- Dpad Up Long Hold & Release - Hotkey 4
+- Dpad Left - Hotkey 1
+- Dpad Down - Hotkey 2
+- Dpad Right - Hotkey 3
+- Dpad Up - Hotkey 4
 - Square - Quick Heal
 - Square (Long Hold) - Quick Magicka Potion
 - Cross - Activate
@@ -162,10 +162,10 @@ Default Keybinds (No Modifiers)
 - Left Trigger - Left Hand
 - RB - Modifier Button & Engarde Modifier (This is the key you have to hold to use a spell in the left hand while wielding a weapon in the right!)
 - Right Trigger - Right Hand
-- Dpad Left Long Hold & Release - Hotkey 1
-- Dpad Down Long Hold & Release - Hotkey 2
-- Dpad Right Long Hold & Release - Hotkey 3
-- Dpad Up Long Hold & Release - Hotkey 4
+- Dpad Left - Hotkey 1
+- Dpad Down - Hotkey 2
+- Dpad Right - Hotkey 3
+- Dpad Up - Hotkey 4
 - X - Quick Heal
 - X (Long Hold) - Quick Magicka Potion
 - A - Activate
