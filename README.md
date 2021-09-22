@@ -126,7 +126,7 @@ L1 Modifier Keybinds - This button must be held down for the following keybinds 
 - L1 + Cross - Dodge Backwards
 - L1 + Circle - Dodge Right
 - L1 + Triangle - Dodge Forward
-- L1 + Left Stick Click - Sneak
+- L1 + Left Stick Click - Open Console
 - L1 + Share (left side) - Immersive HUD Toggle 
 - L1 + Start (right side) - Forceful Tongue Skill Menu (Shout Mod)
 - L1 + Right Pad Click - Shoulder Cam Switch
@@ -190,7 +190,7 @@ LB Modifier Keybinds - This button must be held down for the following keybinds 
 - LB + A - Dodge Backwards
 - LB + B - Dodge Right
 - LB + Y - Dodge Forward
-- LB + Left Stick Click - Sneak
+- LB + Left Stick Click - Open Console
 - LB + Select (left side) - Immersive HUD Toggle 
 - LB + Start - Forceful Tongue Skill Menu (Shout Mod)
 - LB + Start (Long Hold) - Shoulder Cam Switch
