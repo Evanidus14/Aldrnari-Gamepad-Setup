@@ -219,7 +219,7 @@ Campfire Actions (Hold Select Button) - You must hold the Select Button for the 
 
 You're nearly there! Now we can go in-game and do the final steps.
 
-NOTE: Like was mentioned in the beginning of the readme, you need to follow this guide AFTER you've already done the initial Aldrnari MCM setup. What I like to do is start a fresh new game, get ALL the MCM settings from the main guide taken care of, then I make a save. THEN, once you've gotten this far in the controller guide, load up that save with the MCM steps for the main guide complete already and add these final steps on top of it. When you finish, save again. Now you will have a base save that you can start new games from that is already all set up with all the MCM options from both the main guide and this controller guide without having to do them every time you start a new game.
+NOTE: Like was mentioned in the beginning of the readme, you need to follow this guide AFTER you've already done the initial Aldrnari MCM setup. It does not matter if you do these while still above Helgen or if you've already started your character - Just ensure it is AFTER you've done the main guide's MCM setup first.
 
 ### Vanilla Control Changes and Import
 
